@@ -1,0 +1,2558 @@
+Year,CountryID,CountryName,CityID,CityName,OrderCount
+2013,230,United States,3876,Branson West,38
+2013,230,United States,33591,Tamora,32
+2013,230,United States,30342,San Acacia,37
+2013,230,United States,25078,Oakpark,33
+2013,230,United States,18340,Lake Davis,30
+2013,230,United States,3707,Bowlus,36
+2013,230,United States,2379,Beekmantown,24
+2013,230,United States,24583,North Crows Nest,50
+2013,230,United States,31075,Sentinel Butte,39
+2013,230,United States,34633,Tuscaloosa,42
+2013,230,United States,6206,Cherokee,13
+2013,230,United States,3893,Bratenahl,29
+2013,230,United States,35861,Ware Shoals,29
+2013,230,United States,16239,Huntingburg,31
+2013,230,United States,34192,Tolna,41
+2013,230,United States,21351,Mayhill,28
+2013,230,United States,14072,Griswoldville,25
+2013,230,United States,25479,Oologah,36
+2013,230,United States,35712,Wallagrass,29
+2013,230,United States,4291,Brown City,25
+2013,230,United States,1775,Bakers Mill,41
+2013,230,United States,13136,Glen Park,32
+2013,230,United States,20710,Manchester Center,38
+2013,230,United States,8227,Cundiyo,27
+2013,230,United States,6687,Claycomo,21
+2013,230,United States,9701,Eagle Valley,31
+2013,230,United States,10199,El Centro,39
+2013,230,United States,35503,Vollmar,32
+2013,230,United States,30926,Seagraves,33
+2013,230,United States,25639,Orpha,34
+2013,230,United States,28221,Rail Road Flat,34
+2013,230,United States,9386,Drakesboro,31
+2013,230,United States,30906,Sea Island,44
+2013,230,United States,20043,Lost River,34
+2013,230,United States,29887,Ruthsburg,31
+2013,230,United States,17730,Kinder,27
+2013,230,United States,232,Airport Drive,43
+2013,230,United States,23687,Navassa,36
+2013,230,United States,21002,Marion Junction,31
+2013,230,United States,13800,Great Neck Estates,35
+2013,230,United States,17587,Keosauqua,26
+2013,230,United States,16090,Howells,24
+2013,230,United States,7408,Conewango,21
+2013,230,United States,21022,Markville,34
+2013,230,United States,13242,Glenwillow,26
+2013,230,United States,13388,Goodings Grove,27
+2013,230,United States,25121,Obetz,32
+2013,230,United States,21191,Mashulaville,31
+2013,230,United States,23229,Mount Montgomery,32
+2013,230,United States,32575,Stanardsville,32
+2013,230,United States,18337,Lake Crystal,35
+2013,230,United States,23870,New Braintree,40
+2013,230,United States,18460,Lake Stevens,35
+2013,230,United States,1380,Astor Park,37
+2013,230,United States,23707,Necedah,24
+2013,230,United States,3501,Bombay Beach,38
+2013,230,United States,25971,Palatine Bridge,36
+2013,230,United States,34530,Tschetter Colony,36
+2013,230,United States,16382,Idaho City,33
+2013,230,United States,27577,Port Hueneme,28
+2013,230,United States,10388,Elkatawa,35
+2013,230,United States,28032,Puerto de Luna,23
+2013,230,United States,5645,Catesby,35
+2013,230,United States,30119,Saint Landry,37
+2013,230,United States,14965,Haycock,34
+2013,230,United States,1417,Athol Springs,26
+2013,230,United States,30803,Schoharie,28
+2013,230,United States,22814,Montoya,36
+2013,230,United States,22147,Miesville,32
+2013,230,United States,31321,Shell,30
+2013,230,United States,2230,Beals,21
+2013,230,United States,11427,Federalsburg,41
+2013,230,United States,28367,Raven,26
+2013,230,United States,2436,Bell Acres,27
+2013,230,United States,35008,Valhalla,29
+2013,230,United States,2791,Bernstein,28
+2013,230,United States,8493,Darling,26
+2013,230,United States,5247,Capa,34
+2013,230,United States,38042,Yewed,32
+2013,230,United States,32887,Stonefort,37
+2013,230,United States,962,Antonito,25
+2013,230,United States,20189,Lucasville,30
+2013,230,United States,18772,Larose,28
+2013,230,United States,31009,Seiling,29
+2013,230,United States,5682,Cave Junction,29
+2013,230,United States,9077,Dickworsham,26
+2013,230,United States,31006,Segundo,25
+2013,230,United States,19908,Long Meadow,22
+2013,230,United States,21282,Mauldin,39
+2013,230,United States,24700,North Ridge,28
+2013,230,United States,35082,Van Alstyne,32
+2013,230,United States,12483,Furley,37
+2013,230,United States,1245,Arrowbear Lake,43
+2013,230,United States,5304,Carbonville,24
+2013,230,United States,7050,Coffeyville,21
+2013,230,United States,20518,Madison Park,25
+2013,230,United States,30751,Sayner,35
+2013,230,United States,9549,Dunkerton,36
+2013,230,United States,28129,Queen Valley,38
+2013,230,United States,22430,Mineral Hills,26
+2013,230,United States,24007,New Laguna,32
+2013,230,United States,15646,Hodgdon,30
+2013,230,United States,13333,Golden Meadow,43
+2013,230,United States,890,Annamoriah,34
+2013,230,United States,20535,Madrone,30
+2013,230,United States,30734,Saxapahaw,10
+2013,230,United States,26300,Pastura,29
+2013,230,United States,5407,Caro,31
+2013,230,United States,17999,Koontzville,32
+2013,230,United States,10193,Ekron,30
+2013,230,United States,25424,Omer,34
+2013,230,United States,6904,Cloquet,31
+2013,230,United States,30216,Saks,32
+2013,230,United States,3409,Boalsburg,33
+2013,230,United States,7594,Corfu,31
+2013,230,United States,14043,Grider,32
+2013,230,United States,34060,Tilleda,32
+2013,230,United States,18514,Lakemore,31
+2013,230,United States,21431,McCamey,32
+2013,230,United States,31249,Shawboro,39
+2013,230,United States,16891,Jamison,35
+2013,230,United States,12563,Gallipolis Ferry,9
+2013,230,United States,26778,Phelps City,26
+2013,230,United States,8839,Delray,21
+2013,230,United States,2782,Bernardston,40
+2013,230,United States,33227,Sun River,21
+2013,230,United States,25653,Ortley Beach,26
+2013,230,United States,27236,Plata,34
+2013,230,United States,2739,Bergen Park,31
+2013,230,United States,29938,Sabinsville,32
+2013,230,United States,20475,Madaket,24
+2013,230,United States,4491,Buell,35
+2013,230,United States,9237,Donner,26
+2013,230,United States,2971,Big Moose,43
+2013,230,United States,20575,Mahaffey,36
+2013,230,United States,19124,Lemeta,27
+2013,230,United States,31936,Soham,20
+2013,230,United States,9360,Downingtown,22
+2013,230,United States,20412,Lytle,29
+2013,230,United States,11753,Flowella,29
+2013,230,United States,9884,East Portal,31
+2013,230,United States,15835,Homer City,40
+2013,230,United States,7485,Cookietown,23
+2013,230,United States,36499,West Elkton,38
+2013,230,United States,34584,Tunnelhill,37
+2013,230,United States,15102,Hedrick,43
+2013,230,United States,7525,Coosa,33
+2013,230,United States,15689,Holden Beach,21
+2013,230,United States,29320,Rockwall,74
+2013,230,United States,30548,Sans Souci,35
+2013,230,United States,10233,El Refugio,31
+2013,230,United States,54,Accomac,30
+2013,230,United States,27840,Premont,34
+2013,230,United States,16433,Impact,25
+2013,230,United States,28361,Raton,35
+2013,230,United States,15248,Herlong,34
+2013,230,United States,15434,Highland Home,31
+2013,230,United States,38036,Yerington,22
+2013,230,United States,17306,Kalvesta,44
+2013,230,United States,17329,Kannapolis,31
+2013,230,United States,16416,Iliamna,22
+2013,230,United States,24076,New Plymouth,38
+2013,230,United States,15726,Hollandsburg,28
+2013,230,United States,6907,Cloud Lake,34
+2013,230,United States,31401,Sherwin,26
+2013,230,United States,23592,Naples Park,27
+2013,230,United States,22453,Minidoka,35
+2013,230,United States,5633,Cataño,38
+2013,230,United States,12666,Gardners,31
+2013,230,United States,20538,Magalia,26
+2013,230,United States,33520,Taft Heights,34
+2013,230,United States,34422,Trilby,37
+2013,230,United States,7409,Coney Island,35
+2013,230,United States,19434,Lime Lake,33
+2013,230,United States,13669,Grannis,26
+2013,230,United States,12341,Frenchburg,33
+2013,230,United States,34230,Tooele,33
+2013,230,United States,7695,Cos Cob,22
+2013,230,United States,3659,Bourbonnais,44
+2013,230,United States,13692,Grantsburg,25
+2013,230,United States,15,Abbottsburg,33
+2013,230,United States,34568,Tumacacori,50
+2013,230,United States,372,Alden Bridge,38
+2013,230,United States,7781,Coupland,36
+2013,230,United States,28780,Rich Creek,30
+2013,230,United States,10134,Edmund,33
+2013,230,United States,1040,Arbor Vitae,27
+2013,230,United States,20413,Lytle Creek,29
+2013,230,United States,24349,Nichols Hills,33
+2013,230,United States,16185,Humansville,27
+2013,230,United States,20868,Mappsburg,39
+2013,230,United States,23264,Mount Pocono,25
+2013,230,United States,18332,Lake Clarke Shores,42
+2013,230,United States,34193,Tolono,27
+2013,230,United States,6238,Cherryplain,14
+2013,230,United States,29530,Rose Tree,37
+2013,230,United States,7071,Cokato,25
+2013,230,United States,3762,Bozeman Hot Springs,29
+2013,230,United States,18375,Lake Hughes,25
+2013,230,United States,35830,Wapinitia,25
+2013,230,United States,7847,Cowlington,30
+2013,230,United States,1604,Avenal,35
+2013,230,United States,20931,Marguerite,29
+2013,230,United States,32358,Spillertown,34
+2013,230,United States,58,Aceitunas,20
+2013,230,United States,9427,Drumright,37
+2013,230,United States,9258,Dorchester,31
+2013,230,United States,21638,Meadowdale,33
+2013,230,United States,20642,Malott,36
+2013,230,United States,34519,Truscott,32
+2013,230,United States,36434,Wesson,33
+2013,230,United States,24014,New Lexington,27
+2013,230,United States,12653,Gardere,34
+2013,230,United States,16520,Indios,44
+2013,230,United States,14522,Hanna,19
+2013,230,United States,11010,Ewen,20
+2013,230,United States,7343,Compass Lake,33
+2013,230,United States,7074,Coker,37
+2013,230,United States,7861,Coyville,31
+2013,230,United States,1246,Arrowhead Highlands,35
+2013,230,United States,20270,Lunds,32
+2013,230,United States,14173,Guin,36
+2013,230,United States,32126,South Laguna,18
+2013,230,United States,23805,Netcong,21
+2013,230,United States,35810,Wanaque,36
+2013,230,United States,12693,Garlin,29
+2013,230,United States,12152,Frankewing,48
+2013,230,United States,7529,Copake,26
+2013,230,United States,15461,Hightsville,31
+2013,230,United States,3081,Biscay,32
+2013,230,United States,23284,Mount Summit,29
+2013,230,United States,35355,Vidrine,32
+2013,230,United States,14628,Harkers Island,43
+2013,230,United States,13068,Glancy,27
+2013,230,United States,8322,Dacono,31
+2013,230,United States,10194,Ekwok,41
+2013,230,United States,24658,North Manitou,27
+2013,230,United States,6115,Chaseley,31
+2013,230,United States,17353,Karthaus,27
+2013,230,United States,24764,North York,30
+2013,230,United States,7403,Conesus Lake,38
+2013,230,United States,21432,McCammon,35
+2013,230,United States,34256,Topstone,33
+2013,230,United States,2789,Bernie,35
+2013,230,United States,6221,Cherry Grove Beach,55
+2013,230,United States,6327,Cheyenne Wells,31
+2013,230,United States,13360,Golf View,27
+2013,230,United States,24180,Newberg,24
+2013,230,United States,35833,Wappingers Falls,34
+2013,230,United States,7160,College Place,37
+2013,230,United States,29490,Rosa Sánchez,31
+2013,230,United States,14287,Hahira,28
+2013,230,United States,35844,Ward Ridge,26
+2013,230,United States,23441,Munich,30
+2013,230,United States,20902,Marcella,30
+2013,230,United States,7672,Cortaro,31
+2013,230,United States,36531,West Hempstead,23
+2013,230,United States,14596,Hardeeville,41
+2013,230,United States,14974,Haydenville,37
+2013,230,United States,3736,Boyden Arbor,30
+2013,230,United States,34685,Twin Peaks,34
+2013,230,United States,5966,Chalco,52
+2013,230,United States,31104,Severna Park,40
+2013,230,United States,25170,Oconto Falls,32
+2013,230,United States,15143,Helotes,34
+2013,230,United States,1366,Aspen Park,35
+2013,230,United States,33660,Tavares,31
+2013,230,United States,33806,Terre du Lac,36
+2013,230,United States,1343,Ashtabula,45
+2013,230,United States,2425,Belgreen,20
+2013,230,United States,23796,Nesmith,24
+2013,230,United States,37473,Windsor Locks,30
+2013,230,United States,20610,Makoti,24
+2013,230,United States,18446,Lake Ronkonkoma,44
+2013,230,United States,49,Absecon,25
+2013,230,United States,696,Amanda Park,34
+2013,230,United States,29166,Robertsdale,34
+2013,230,United States,29123,Roachtown,31
+2013,230,United States,18346,Lake Erie Beach,40
+2013,230,United States,14556,Hanoverton,25
+2013,230,United States,8562,Dawn,20
+2013,230,United States,24898,Nuangola,23
+2013,230,United States,8751,Deeson,37
+2013,230,United States,16411,Ikatan,29
+2013,230,United States,30663,Sarversville,43
+2013,230,United States,24589,North Eastham,22
+2013,230,United States,23026,Morrison Bluff,29
+2013,230,United States,928,Antares,29
+2013,230,United States,23550,Nahant,35
+2013,230,United States,12040,Fortville,32
+2013,230,United States,22903,Mooringsport,39
+2013,230,United States,21821,Mendoza,30
+2013,230,United States,17742,King Cove,28
+2013,230,United States,34699,Twodot,32
+2013,230,United States,8296,Cuyamungue,24
+2013,230,United States,36179,Waycross,28
+2013,230,United States,14041,Greycliff,15
+2013,230,United States,36322,Weld,27
+2013,230,United States,7749,Cotuit,31
+2013,230,United States,14931,Hawarden,37
+2013,230,United States,27543,Port Alto,35
+2013,230,United States,36365,Wells,22
+2013,230,United States,16992,Jemison,33
+2013,230,United States,33832,Teutopolis,53
+2013,230,United States,35160,Vassalboro,24
+2013,230,United States,24340,Nicasio,25
+2013,230,United States,37885,Wrangell,23
+2013,230,United States,32993,Straughn,35
+2013,230,United States,21692,Medicine Lodge,37
+2013,230,United States,2614,Ben Arnold,34
+2013,230,United States,35223,Verdery,44
+2013,230,United States,5259,Cape Neddick,42
+2013,230,United States,1904,Baraboo,31
+2013,230,United States,34181,Tolchester Beach,31
+2013,230,United States,32561,Stallion Springs,35
+2013,230,United States,15057,Heartwell,31
+2013,230,United States,3673,Bow Mar,35
+2013,230,United States,32558,Staley,5
+2013,230,United States,36946,White Church,30
+2013,230,United States,25376,Olivette,30
+2013,230,United States,31685,Sinclair,65
+2013,230,United States,30288,Sallyards,36
+2013,230,United States,32083,South Euclid,35
+2013,230,United States,19368,Liberty Grove,34
+2013,230,United States,9040,Diablock,28
+2013,230,United States,16557,Inguadona,29
+2013,230,United States,10059,Edgecomb,20
+2013,230,United States,7938,Creelsboro,35
+2013,230,United States,14977,Hayes Center,28
+2013,230,United States,9524,Dundarrach,31
+2013,230,United States,28502,Red Mesa,19
+2013,230,United States,30517,Sandy Level,37
+2013,230,United States,19405,Lilbourn,41
+2013,230,United States,35635,Walapai,37
+2013,230,United States,18058,Kwethluk,44
+2013,230,United States,19386,Licking,31
+2013,230,United States,28210,Rafael Capó,30
+2013,230,United States,17931,Knifley,40
+2013,230,United States,25505,Optimo,21
+2013,230,United States,3425,Bock,37
+2013,230,United States,35061,Valley View Park,33
+2013,230,United States,17039,Jeromesville,27
+2013,230,United States,12748,Gasport,29
+2013,230,United States,26379,Pawlet,33
+2013,230,United States,29651,Rothsville,26
+2013,230,United States,8317,Cypress Quarters,24
+2013,230,United States,11520,Fieldbrook,30
+2013,230,United States,35078,Vamo,25
+2013,230,United States,600,Alstead,31
+2013,230,United States,34875,Universal City,21
+2013,230,United States,14268,Haddon Heights,31
+2013,230,United States,24988,Oak Point,36
+2013,230,United States,3840,Branchburg Park,32
+2013,230,United States,9791,East Fultonham,66
+2013,230,United States,32267,Southside,28
+2013,230,United States,6402,Chipita Park,29
+2013,230,United States,13896,Greenfield,23
+2013,230,United States,34411,Triadelphia,28
+2013,230,United States,13375,Good Hart,29
+2013,230,United States,7069,Coin,39
+2013,230,United States,38184,Zurich,32
+2013,230,United States,36973,White Horse Beach,27
+2013,230,United States,8772,Del Valle,25
+2013,230,United States,8294,Cuyahoga Heights,43
+2013,230,United States,11626,Flanagan,37
+2013,230,United States,32688,Statenville,32
+2013,230,United States,8337,Dahlia,22
+2013,230,United States,17142,Jolley,49
+2013,230,United States,16893,Jane,26
+2013,230,United States,18865,Laurence Harbor,25
+2013,230,United States,23734,Nehawka,35
+2013,230,United States,3176,Bladenboro,24
+2013,230,United States,34208,Tomnolen,30
+2013,230,United States,1244,Arrow Rock,30
+2013,230,United States,4278,Broomtown,25
+2013,230,United States,21427,McCall,22
+2013,230,United States,10043,Eden Valley,29
+2013,230,United States,9379,Dracut,44
+2013,230,United States,13146,Glen Ullin,23
+2013,230,United States,10561,Elrosa,37
+2013,230,United States,24553,North Brookfield,27
+2013,230,United States,24530,North Beach Haven,27
+2013,230,United States,23843,New Baden,38
+2013,230,United States,34285,Towaco,34
+2013,230,United States,242,Akhiok,65
+2013,230,United States,9064,Dickerson,19
+2013,230,United States,12751,Gassaway,28
+2013,230,United States,30790,Schererville,35
+2013,230,United States,32124,South La Paloma,26
+2013,230,United States,37969,Yaak,38
+2013,230,United States,843,Andrix,29
+2013,230,United States,14019,Greig,30
+2013,230,United States,18141,La Paz,34
+2013,230,United States,38038,Yermo,34
+2013,230,United States,35951,Wasco,21
+2013,230,United States,24401,Nitro,41
+2013,230,United States,33747,Tempe,38
+2013,230,United States,3700,Bowleys Quarters,28
+2013,230,United States,24590,North Eaton,31
+2013,230,United States,21367,Maypearl,51
+2013,230,United States,25818,Ovilla,26
+2013,230,United States,5506,Caruthers,36
+2013,230,United States,20846,Maple Shade,35
+2013,230,United States,17935,Knights Landing,37
+2013,230,United States,9857,East Mountain,24
+2013,230,United States,27232,Plaquemine,26
+2013,230,United States,25795,Oval,25
+2013,230,United States,27424,Point Roberts,26
+2013,230,United States,35831,Wapiti,42
+2013,230,United States,11686,Flomaton,26
+2013,230,United States,31752,Skyway,36
+2013,230,United States,33475,Sylvanite,31
+2013,230,United States,16469,Indian Creek,29
+2013,230,United States,15118,Heilwood,34
+2013,230,United States,4352,Bruceton Mills,34
+2013,230,United States,37316,Willow Valley,28
+2013,230,United States,20668,Mamou,33
+2013,230,United States,25646,Orrtanna,39
+2013,230,United States,25122,Obion,23
+2013,230,United States,27166,Placer,35
+2013,230,United States,20376,Lynne,53
+2013,230,United States,2815,Berville,28
+2013,230,United States,10581,Elverson,26
+2013,230,United States,1132,Arietta,33
+2013,230,United States,23067,Morton Grove,16
+2013,230,United States,22915,Moquino,37
+2013,230,United States,35470,Virgil,20
+2013,230,United States,36297,Weigelstown,31
+2013,230,United States,8892,Dennis Acres,31
+2013,230,United States,19586,Lisco,36
+2013,230,United States,18069,La Bolt,38
+2013,230,United States,28434,Reader,32
+2013,230,United States,33701,Tea,34
+2013,230,United States,9433,Dry Run,31
+2013,230,United States,11597,Fishtail,21
+2013,230,United States,36091,Watonga,37
+2013,230,United States,14033,Gresston,36
+2013,230,United States,8082,Crossroads,30
+2013,230,United States,7890,Cramerton,37
+2013,230,United States,23542,Naches,31
+2013,230,United States,6124,Chateaugay,39
+2013,230,United States,17591,Kerby,37
+2013,230,United States,35344,Victory Gardens,42
+2013,230,United States,5540,Caselton,21
+2013,230,United States,31010,Sekiu,37
+2013,230,United States,11491,Ferney,21
+2013,230,United States,20047,Lostine,31
+2013,230,United States,26788,Philip,33
+2013,230,United States,7432,Connoquenessing,28
+2013,230,United States,17093,Johnetta,31
+2013,230,United States,30698,Sauquoit,35
+2013,230,United States,23396,Muir,32
+2013,230,United States,3127,Black Lick,43
+2013,230,United States,26376,Paw Paw Lake,31
+2013,230,United States,3894,Bratt,27
+2013,230,United States,18882,Lavon,26
+2013,230,United States,33237,Sunburg,31
+2013,230,United States,33446,Switz City,27
+2013,230,United States,36841,Westwater,35
+2013,230,United States,3545,Bonner Springs,28
+2013,230,United States,22085,Middleway,40
+2013,230,United States,21604,McQueen,27
+2013,230,United States,16741,Islip Terrace,33
+2013,230,United States,2111,Batson,29
+2013,230,United States,17053,Jesmond Dene,27
+2013,230,United States,22984,Morita,25
+2013,230,United States,10910,Eulaton,29
+2013,230,United States,28222,Railroad,31
+2013,230,United States,6313,Chetek,23
+2013,230,United States,32885,Stoneboro,34
+2013,230,United States,15610,Hiteman,22
+2013,230,United States,14591,Harbour Pointe,35
+2013,230,United States,10263,Elbing,34
+2013,230,United States,26579,Penns Creek,24
+2013,230,United States,2838,Bethania,37
+2013,230,United States,33867,The Colony,25
+2013,230,United States,25354,Oley,37
+2013,230,United States,16257,Huntington Woods,25
+2013,230,United States,2291,Beaver Bay,33
+2013,230,United States,31348,Shenorock,33
+2013,230,United States,37884,Wounded Knee,32
+2013,230,United States,17632,Key Biscayne,41
+2013,230,United States,34280,Toughkenamon,31
+2013,230,United States,19338,Lexington Heights,23
+2013,230,United States,34990,Valdese,38
+2013,230,United States,29371,Roe Park,27
+2013,230,United States,21405,McAdenville,29
+2013,230,United States,3755,Boynton,21
+2013,230,United States,7668,Corryton,9
+2013,230,United States,19839,Lompoc,32
+2013,230,United States,20672,Manahawkin,28
+2013,230,United States,7914,Crary,38
+2013,230,United States,10831,Esopus,31
+2013,230,United States,25581,Orick,27
+2013,230,United States,18110,La Grange Park,20
+2013,230,United States,27648,Portales,41
+2013,230,United States,12992,Gilford,28
+2013,230,United States,31870,Smoot,30
+2013,230,United States,12142,Francis Mills,33
+2013,230,United States,13304,Goffstown,24
+2013,230,United States,9772,East Dailey,28
+2013,230,United States,34031,Tiff City,19
+2013,230,United States,4840,Cache,27
+2013,230,United States,17054,Jessie,36
+2013,230,United States,4860,Cadogan,25
+2013,230,United States,20131,Lowellville,29
+2013,230,United States,14492,Hanaford,38
+2013,230,United States,5687,Cavendish,33
+2013,230,United States,17340,Kapa'a,42
+2013,230,United States,31266,Shay,31
+2013,230,United States,15783,Hollywood Park,29
+2013,230,United States,3048,Biorka,5
+2013,230,United States,37194,Wilkes-Barre,38
+2013,230,United States,12680,Gargatha,27
+2013,230,United States,11747,Floriston,33
+2013,230,United States,2175,Bayou Cane,33
+2013,230,United States,1820,Balko,31
+2013,230,United States,25083,Oakshade,23
+2013,230,United States,9099,Dillon,7
+2013,230,United States,13868,Greenback,27
+2013,230,United States,2862,Bethel Acres,27
+2013,230,United States,9932,Eastchester,29
+2013,230,United States,20901,Marcell,27
+2013,230,United States,29165,Robertsburg,33
+2013,230,United States,25332,Old River-Winfree,39
+2013,230,United States,16430,Imlaystown,32
+2013,230,United States,26752,Petronila,25
+2013,230,United States,20961,Marin City,25
+2013,230,United States,27559,Port Chilkoot,24
+2013,230,United States,3463,Bokeelia,29
+2013,230,United States,8375,Dallardsville,29
+2013,230,United States,26769,Pharr,28
+2013,230,United States,26105,Panton,34
+2013,230,United States,26483,Peeples Valley,40
+2013,230,United States,34512,Trumansburg,30
+2013,230,United States,36513,West Frostproof,40
+2013,230,United States,1299,Asher,28
+2013,230,United States,20924,Marfa,37
+2013,230,United States,37403,Wimbledon,29
+2013,230,United States,29729,Royal City,39
+2013,230,United States,4900,Cale,21
+2013,230,United States,8730,Deer River,27
+2013,230,United States,16702,Isabela,32
+2013,230,United States,24668,North Muskegon,31
+2013,230,United States,5192,Cañon,33
+2013,230,United States,25552,Orchard Hill,32
+2013,230,United States,18983,Leathersville,38
+2013,230,United States,7576,Corcovado,24
+2013,230,United States,19979,Lorentz,39
+2013,230,United States,23560,Nanafalia,24
+2013,230,United States,3663,Bourneville,28
+2013,230,United States,24579,North Cowden,28
+2013,230,United States,32359,Spillville,33
+2013,230,United States,26076,Panaca,27
+2013,230,United States,34910,Upper Preston,29
+2013,230,United States,34466,Trout Run,24
+2013,230,United States,21161,Mary Esther,27
+2013,230,United States,1811,Baldwin City,32
+2013,230,United States,14377,Haltom City,36
+2013,230,United States,30304,Salt Wells,39
+2013,230,United States,30839,Scofield,22
+2013,230,United States,9445,Du Quoin,27
+2013,230,United States,18004,Kopperl,37
+2013,230,United States,33793,Tenstrike,37
+2013,230,United States,19232,Lesslie,32
+2013,230,United States,28907,Ridgemark,31
+2013,230,United States,4977,Calvert City,30
+2013,230,United States,22146,Mier,34
+2013,230,United States,21439,McClave,38
+2013,230,United States,357,Alcester,41
+2013,230,United States,26010,Palmas del Mar,30
+2013,230,United States,30779,Schaal,33
+2013,230,United States,4270,Brookville,3
+2013,230,United States,18087,La Cueva,25
+2013,230,United States,34403,Tresckow,37
+2013,230,United States,25555,Orchard Mesa,31
+2013,230,United States,16401,Idria,28
+2013,230,United States,30132,Saint Louis Park,33
+2013,230,United States,14194,Gum Branch,33
+2013,230,United States,35193,Venersborg,37
+2013,230,United States,3165,Blackville,30
+2013,230,United States,35605,Waite Hill,44
+2013,230,United States,34400,Trentwood,32
+2013,230,United States,30387,San Jacinto,29
+2013,230,United States,22020,Mickleton,30
+2013,230,United States,14380,Hambleton,30
+2013,230,United States,1121,Argusville,39
+2013,230,United States,25933,Page City,38
+2013,230,United States,11131,Fairfield Glade,34
+2013,230,United States,33799,Termo,39
+2013,230,United States,31629,Silver Plume,30
+2013,230,United States,8306,Cylon,33
+2013,230,United States,5664,Caton,30
+2013,230,United States,689,Amado,40
+2013,230,United States,21001,Marion Hill,25
+2013,230,United States,26906,Pikeview,21
+2013,230,United States,4430,Buchanan Lake Village,32
+2013,230,United States,8987,Devault,36
+2013,230,United States,24805,Northrop,39
+2013,230,United States,27344,Plum Branch,40
+2013,230,United States,3059,Birds,34
+2013,230,United States,10055,Edgartown,32
+2013,230,United States,34028,Tierra Verde,32
+2013,230,United States,31323,Shell Knob,31
+2013,230,United States,2203,Bazemore,30
+2013,230,United States,10367,Elk Garden,29
+2013,230,United States,24164,New Zion,34
+2013,230,United States,34984,Vair,32
+2013,230,United States,11008,Ewart,22
+2013,230,United States,17151,Jones Creek,35
+2013,230,United States,6574,Claremont,7
+2013,230,United States,37938,Wyndham,29
+2013,230,United States,6809,Clewiston,26
+2013,230,United States,25595,Oriole Beach,28
+2013,230,United States,31758,Slanesville,44
+2013,230,United States,13507,Grabill,41
+2013,230,United States,13109,Glen Avon,44
+2013,230,United States,1207,Armstrong Creek,36
+2013,230,United States,22604,Molalla,24
+2014,230,United States,8730,Deer River,26
+2014,230,United States,26483,Peeples Valley,40
+2014,230,United States,29729,Royal City,30
+2014,230,United States,12142,Francis Mills,29
+2014,230,United States,36513,West Frostproof,42
+2014,230,United States,4900,Cale,34
+2014,230,United States,37403,Wimbledon,34
+2014,230,United States,5192,Cañon,34
+2014,230,United States,34990,Valdese,33
+2014,230,United States,24668,North Muskegon,22
+2014,230,United States,31936,Soham,37
+2014,230,United States,27559,Port Chilkoot,27
+2014,230,United States,3463,Bokeelia,33
+2014,230,United States,2175,Bayou Cane,29
+2014,230,United States,10831,Esopus,33
+2014,230,United States,12680,Gargatha,32
+2014,230,United States,17306,Kalvesta,29
+2014,230,United States,9932,Eastchester,36
+2014,230,United States,26769,Pharr,37
+2014,230,United States,1299,Asher,35
+2014,230,United States,26105,Panton,32
+2014,230,United States,13868,Greenback,31
+2014,230,United States,3048,Biorka,37
+2014,230,United States,20901,Marcell,33
+2014,230,United States,31870,Smoot,42
+2014,230,United States,1820,Balko,32
+2014,230,United States,34031,Tiff City,36
+2014,230,United States,25083,Oakshade,30
+2014,230,United States,25332,Old River-Winfree,36
+2014,230,United States,15783,Hollywood Park,38
+2014,230,United States,34910,Upper Preston,40
+2014,230,United States,26752,Petronila,26
+2014,230,United States,29938,Sabinsville,31
+2014,230,United States,31266,Shay,25
+2014,230,United States,9331,Dover,16
+2014,230,United States,37194,Wilkes-Barre,28
+2014,230,United States,8375,Dallardsville,43
+2014,230,United States,11747,Floriston,31
+2014,230,United States,54,Accomac,43
+2014,230,United States,16702,Isabela,42
+2014,230,United States,7525,Coosa,35
+2014,230,United States,20924,Marfa,36
+2014,230,United States,13304,Goffstown,27
+2014,230,United States,17632,Key Biscayne,35
+2014,230,United States,31249,Shawboro,44
+2014,230,United States,4840,Cache,33
+2014,230,United States,14492,Hanaford,35
+2014,230,United States,21405,McAdenville,32
+2014,230,United States,9772,East Dailey,31
+2014,230,United States,19839,Lompoc,47
+2014,230,United States,20131,Lowellville,41
+2014,230,United States,4860,Cadogan,27
+2014,230,United States,2862,Bethel Acres,45
+2014,230,United States,20672,Manahawkin,38
+2014,230,United States,12992,Gilford,40
+2014,230,United States,27648,Portales,31
+2014,230,United States,5687,Cavendish,36
+2014,230,United States,29165,Robertsburg,34
+2014,230,United States,16430,Imlaystown,32
+2014,230,United States,7914,Crary,29
+2014,230,United States,34512,Trumansburg,43
+2014,230,United States,37884,Wounded Knee,34
+2014,230,United States,17054,Jessie,34
+2014,230,United States,29371,Roe Park,36
+2014,230,United States,3755,Boynton,38
+2014,230,United States,7668,Corryton,23
+2014,230,United States,24007,New Laguna,35
+2014,230,United States,3663,Bourneville,43
+2014,230,United States,6809,Clewiston,37
+2014,230,United States,10055,Edgartown,26
+2014,230,United States,1207,Armstrong Creek,34
+2014,230,United States,22604,Molalla,41
+2014,230,United States,24805,Northrop,26
+2014,230,United States,3165,Blackville,36
+2014,230,United States,34400,Trentwood,35
+2014,230,United States,13507,Grabill,30
+2014,230,United States,3059,Birds,32
+2014,230,United States,20961,Marin City,31
+2014,230,United States,37938,Wyndham,31
+2014,230,United States,34028,Tierra Verde,40
+2014,230,United States,25581,Orick,32
+2014,230,United States,24164,New Zion,21
+2014,230,United States,31323,Shell Knob,32
+2014,230,United States,5664,Caton,24
+2014,230,United States,13109,Glen Avon,29
+2014,230,United States,35605,Waite Hill,28
+2014,230,United States,9099,Dillon,44
+2014,230,United States,21001,Marion Hill,33
+2014,230,United States,4270,Brookville,40
+2014,230,United States,26906,Pikeview,39
+2014,230,United States,689,Amado,32
+2014,230,United States,11008,Ewart,37
+2014,230,United States,33799,Termo,35
+2014,230,United States,22020,Mickleton,46
+2014,230,United States,17151,Jones Creek,26
+2014,230,United States,10367,Elk Garden,45
+2014,230,United States,30387,San Jacinto,52
+2014,230,United States,11131,Fairfield Glade,28
+2014,230,United States,8306,Cylon,31
+2014,230,United States,14380,Hambleton,20
+2014,230,United States,16401,Idria,38
+2014,230,United States,1121,Argusville,29
+2014,230,United States,25595,Oriole Beach,27
+2014,230,United States,17340,Kapa'a,37
+2014,230,United States,34403,Tresckow,34
+2014,230,United States,35193,Venersborg,36
+2014,230,United States,25555,Orchard Mesa,43
+2014,230,United States,14194,Gum Branch,29
+2014,230,United States,18110,La Grange Park,23
+2014,230,United States,4977,Calvert City,28
+2014,230,United States,357,Alcester,30
+2014,230,United States,37898,Wright City,1
+2014,230,United States,25933,Page City,26
+2014,230,United States,30132,Saint Louis Park,35
+2014,230,United States,18087,La Cueva,32
+2014,230,United States,28907,Ridgemark,35
+2014,230,United States,22146,Mier,36
+2014,230,United States,30304,Salt Wells,47
+2014,230,United States,30779,Schaal,33
+2014,230,United States,19232,Lesslie,41
+2014,230,United States,23560,Nanafalia,22
+2014,230,United States,30839,Scofield,34
+2014,230,United States,7576,Corcovado,36
+2014,230,United States,32359,Spillville,37
+2014,230,United States,34280,Toughkenamon,19
+2014,230,United States,18983,Leathersville,25
+2014,230,United States,27344,Plum Branch,35
+2014,230,United States,4430,Buchanan Lake Village,35
+2014,230,United States,18004,Kopperl,27
+2014,230,United States,1811,Baldwin City,27
+2014,230,United States,21439,McClave,25
+2014,230,United States,26076,Panaca,30
+2014,230,United States,31758,Slanesville,34
+2014,230,United States,19979,Lorentz,35
+2014,230,United States,6574,Claremont,40
+2014,230,United States,19338,Lexington Heights,34
+2014,230,United States,34984,Vair,32
+2014,230,United States,24579,North Cowden,35
+2014,230,United States,34466,Trout Run,34
+2014,230,United States,38042,Yewed,28
+2014,230,United States,2436,Bell Acres,27
+2014,230,United States,10059,Edgecomb,34
+2014,230,United States,21022,Markville,33
+2014,230,United States,32575,Stanardsville,38
+2014,230,United States,23870,New Braintree,29
+2014,230,United States,2230,Beals,25
+2014,230,United States,35635,Walapai,36
+2014,230,United States,23229,Mount Montgomery,29
+2014,230,United States,5682,Cave Junction,27
+2014,230,United States,30119,Saint Landry,28
+2014,230,United States,14965,Haycock,43
+2014,230,United States,18772,Larose,33
+2014,230,United States,962,Antonito,28
+2014,230,United States,31009,Seiling,23
+2014,230,United States,36946,White Church,27
+2014,230,United States,34192,Tolna,39
+2014,230,United States,10388,Elkatawa,40
+2014,230,United States,27577,Port Hueneme,18
+2014,230,United States,16239,Huntingburg,22
+2014,230,United States,32887,Stonefort,18
+2014,230,United States,2791,Bernstein,40
+2014,230,United States,11427,Federalsburg,39
+2014,230,United States,16382,Idaho City,40
+2014,230,United States,31321,Shell,27
+2014,230,United States,1775,Bakers Mill,31
+2014,230,United States,13136,Glen Park,27
+2014,230,United States,9077,Dickworsham,37
+2014,230,United States,30803,Schoharie,29
+2014,230,United States,22147,Miesville,44
+2014,230,United States,1417,Athol Springs,42
+2014,230,United States,28032,Puerto de Luna,39
+2014,230,United States,34530,Tschetter Colony,35
+2014,230,United States,23707,Necedah,35
+2014,230,United States,21692,Medicine Lodge,25
+2014,230,United States,1380,Astor Park,34
+2014,230,United States,13388,Goodings Grove,34
+2014,230,United States,22814,Montoya,23
+2014,230,United States,13242,Glenwillow,35
+2014,230,United States,5247,Capa,33
+2014,230,United States,30926,Seagraves,31
+2014,230,United States,21191,Mashulaville,39
+2014,230,United States,35503,Vollmar,33
+2014,230,United States,16090,Howells,31
+2014,230,United States,18460,Lake Stevens,32
+2014,230,United States,18337,Lake Crystal,39
+2014,230,United States,35008,Valhalla,31
+2014,230,United States,20189,Lucasville,49
+2014,230,United States,25121,Obetz,31
+2014,230,United States,20043,Lost River,28
+2014,230,United States,30906,Sea Island,29
+2014,230,United States,25639,Orpha,36
+2014,230,United States,17587,Keosauqua,42
+2014,230,United States,36322,Weld,22
+2014,230,United States,9701,Eagle Valley,38
+2014,230,United States,10199,El Centro,26
+2014,230,United States,232,Airport Drive,39
+2014,230,United States,3501,Bombay Beach,35
+2014,230,United States,4291,Brown City,34
+2014,230,United States,6206,Cherokee,27
+2014,230,United States,8227,Cundiyo,41
+2014,230,United States,13800,Great Neck Estates,27
+2014,230,United States,9386,Drakesboro,21
+2014,230,United States,7749,Cotuit,38
+2014,230,United States,35712,Wallagrass,35
+2014,230,United States,23687,Navassa,32
+2014,230,United States,6687,Claycomo,29
+2014,230,United States,25078,Oakpark,38
+2014,230,United States,33591,Tamora,29
+2014,230,United States,25771,Otterville,39
+2014,230,United States,30342,San Acacia,20
+2014,230,United States,24583,North Crows Nest,40
+2014,230,United States,28221,Rail Road Flat,34
+2014,230,United States,25376,Olivette,33
+2014,230,United States,21002,Marion Junction,30
+2014,230,United States,5645,Catesby,36
+2014,230,United States,20610,Makoti,25
+2014,230,United States,49,Absecon,42
+2014,230,United States,34633,Tuscaloosa,31
+2014,230,United States,29887,Ruthsburg,36
+2014,230,United States,8493,Darling,38
+2014,230,United States,3876,Branson West,35
+2014,230,United States,35861,Ware Shoals,41
+2014,230,United States,3893,Bratenahl,27
+2014,230,United States,28367,Raven,29
+2014,230,United States,20710,Manchester Center,38
+2014,230,United States,31075,Sentinel Butte,40
+2014,230,United States,25479,Oologah,43
+2014,230,United States,14072,Griswoldville,34
+2014,230,United States,18340,Lake Davis,34
+2014,230,United States,2379,Beekmantown,20
+2014,230,United States,3707,Bowlus,30
+2014,230,United States,24076,New Plymouth,41
+2014,230,United States,31401,Sherwin,30
+2014,230,United States,6907,Cloud Lake,32
+2014,230,United States,372,Alden Bridge,27
+2014,230,United States,20538,Magalia,27
+2014,230,United States,20575,Mahaffey,40
+2014,230,United States,5633,Cataño,27
+2014,230,United States,12666,Gardners,37
+2014,230,United States,7485,Cookietown,28
+2014,230,United States,28361,Raton,33
+2014,230,United States,9549,Dunkerton,29
+2014,230,United States,17329,Kannapolis,30
+2014,230,United States,16433,Impact,38
+2014,230,United States,38036,Yerington,29
+2014,230,United States,22453,Minidoka,44
+2014,230,United States,15434,Highland Home,39
+2014,230,United States,15102,Hedrick,33
+2014,230,United States,23592,Naples Park,33
+2014,230,United States,11753,Flowella,40
+2014,230,United States,15835,Homer City,31
+2014,230,United States,17999,Koontzville,42
+2014,230,United States,9884,East Portal,30
+2014,230,United States,30734,Saxapahaw,26
+2014,230,United States,20412,Lytle,32
+2014,230,United States,27840,Premont,38
+2014,230,United States,9237,Donner,43
+2014,230,United States,30548,Sans Souci,28
+2014,230,United States,10233,El Refugio,30
+2014,230,United States,25971,Palatine Bridge,39
+2014,230,United States,15689,Holden Beach,34
+2014,230,United States,36499,West Elkton,36
+2014,230,United States,25424,Omer,40
+2014,230,United States,2739,Bergen Park,44
+2014,230,United States,16416,Iliamna,31
+2014,230,United States,27236,Plata,42
+2014,230,United States,19124,Lemeta,24
+2014,230,United States,29320,Rockwall,69
+2014,230,United States,2971,Big Moose,41
+2014,230,United States,7408,Conewango,32
+2014,230,United States,4491,Buell,36
+2014,230,United States,20475,Madaket,26
+2014,230,United States,34584,Tunnelhill,24
+2014,230,United States,26778,Phelps City,41
+2014,230,United States,31006,Segundo,50
+2014,230,United States,18514,Lakemore,27
+2014,230,United States,16891,Jamison,31
+2014,230,United States,17730,Kinder,32
+2014,230,United States,12563,Gallipolis Ferry,19
+2014,230,United States,14043,Grider,36
+2014,230,United States,20535,Madrone,30
+2014,230,United States,7594,Corfu,41
+2014,230,United States,34060,Tilleda,30
+2014,230,United States,8839,Delray,33
+2014,230,United States,1245,Arrowbear Lake,41
+2014,230,United States,30216,Saks,46
+2014,230,United States,6904,Cloquet,32
+2014,230,United States,33227,Sun River,30
+2014,230,United States,26300,Pastura,25
+2014,230,United States,21431,McCamey,32
+2014,230,United States,9360,Downingtown,47
+2014,230,United States,30751,Sayner,35
+2014,230,United States,25653,Ortley Beach,33
+2014,230,United States,15646,Hodgdon,25
+2014,230,United States,3409,Boalsburg,34
+2014,230,United States,15248,Herlong,41
+2014,230,United States,22430,Mineral Hills,34
+2014,230,United States,10193,Ekron,36
+2014,230,United States,28129,Queen Valley,37
+2014,230,United States,5407,Caro,31
+2014,230,United States,890,Annamoriah,33
+2014,230,United States,5304,Carbonville,36
+2014,230,United States,24700,North Ridge,45
+2014,230,United States,21282,Mauldin,27
+2014,230,United States,19908,Long Meadow,35
+2014,230,United States,15726,Hollandsburg,37
+2014,230,United States,20518,Madison Park,33
+2014,230,United States,12483,Furley,35
+2014,230,United States,7050,Coffeyville,36
+2014,230,United States,13333,Golden Meadow,42
+2014,230,United States,6221,Cherry Grove Beach,67
+2014,230,United States,35082,Van Alstyne,32
+2014,230,United States,2782,Bernardston,34
+2014,230,United States,21351,Mayhill,29
+2014,230,United States,7695,Cos Cob,40
+2014,230,United States,24764,North York,41
+2014,230,United States,7160,College Place,27
+2014,230,United States,32358,Spillertown,35
+2014,230,United States,15461,Hightsville,39
+2014,230,United States,29490,Rosa Sánchez,30
+2014,230,United States,2291,Beaver Bay,24
+2014,230,United States,35833,Wappingers Falls,37
+2014,230,United States,24180,Newberg,25
+2014,230,United States,1246,Arrowhead Highlands,35
+2014,230,United States,13068,Glancy,29
+2014,230,United States,10194,Ekwok,31
+2014,230,United States,21432,McCammon,45
+2014,230,United States,2789,Bernie,32
+2014,230,United States,8322,Dacono,26
+2014,230,United States,3081,Biscay,24
+2014,230,United States,14173,Guin,37
+2014,230,United States,35355,Vidrine,35
+2014,230,United States,24658,North Manitou,22
+2014,230,United States,22998,Moroni,13
+2014,230,United States,6115,Chaseley,24
+2014,230,United States,1040,Arbor Vitae,29
+2014,230,United States,17353,Karthaus,36
+2014,230,United States,14628,Harkers Island,34
+2014,230,United States,23284,Mount Summit,29
+2014,230,United States,6327,Cheyenne Wells,38
+2014,230,United States,23805,Netcong,46
+2014,230,United States,12152,Frankewing,37
+2014,230,United States,21638,Meadowdale,37
+2014,230,United States,1604,Avenal,47
+2014,230,United States,35810,Wanaque,41
+2014,230,United States,7861,Coyville,27
+2014,230,United States,7529,Copake,35
+2014,230,United States,16520,Indios,31
+2014,230,United States,9258,Dorchester,30
+2014,230,United States,14522,Hanna,24
+2014,230,United States,58,Aceitunas,39
+2014,230,United States,30698,Sauquoit,31
+2014,230,United States,11010,Ewen,34
+2014,230,United States,20642,Malott,33
+2014,230,United States,15610,Hiteman,30
+2014,230,United States,12693,Garlin,34
+2014,230,United States,36434,Wesson,23
+2014,230,United States,3762,Bozeman Hot Springs,31
+2014,230,United States,7074,Coker,36
+2014,230,United States,31010,Sekiu,33
+2014,230,United States,34256,Topstone,33
+2014,230,United States,29530,Rose Tree,29
+2014,230,United States,7847,Cowlington,41
+2014,230,United States,9427,Drumright,33
+2014,230,United States,20931,Marguerite,33
+2014,230,United States,12653,Gardere,38
+2014,230,United States,34193,Tolono,43
+2014,230,United States,18332,Lake Clarke Shores,34
+2014,230,United States,24014,New Lexington,32
+2014,230,United States,20868,Mappsburg,37
+2014,230,United States,7343,Compass Lake,36
+2014,230,United States,28385,Ravia,22
+2014,230,United States,18375,Lake Hughes,26
+2014,230,United States,20270,Lunds,44
+2014,230,United States,24349,Nichols Hills,21
+2014,230,United States,20413,Lytle Creek,33
+2014,230,United States,34230,Tooele,36
+2014,230,United States,34568,Tumacacori,35
+2014,230,United States,23264,Mount Pocono,28
+2014,230,United States,12341,Frenchburg,38
+2014,230,United States,13669,Grannis,34
+2014,230,United States,34422,Trilby,40
+2014,230,United States,19434,Lime Lake,29
+2014,230,United States,28780,Rich Creek,34
+2014,230,United States,7781,Coupland,43
+2014,230,United States,6238,Cherryplain,25
+2014,230,United States,7071,Cokato,27
+2014,230,United States,7409,Coney Island,33
+2014,230,United States,3018,Biggs,15
+2014,230,United States,10134,Edmund,27
+2014,230,United States,13360,Golf View,39
+2014,230,United States,13692,Grantsburg,28
+2014,230,United States,3659,Bourbonnais,46
+2014,230,United States,28502,Red Mesa,27
+2014,230,United States,30517,Sandy Level,39
+2014,230,United States,14287,Hahira,29
+2014,230,United States,16992,Jemison,26
+2014,230,United States,33520,Taft Heights,33
+2014,230,United States,7403,Conesus Lake,29
+2014,230,United States,33806,Terre du Lac,39
+2014,230,United States,23441,Munich,36
+2014,230,United States,35223,Verdery,26
+2014,230,United States,9524,Dundarrach,27
+2014,230,United States,25505,Optimo,45
+2014,230,United States,17931,Knifley,33
+2014,230,United States,5966,Chalco,40
+2014,230,United States,37885,Wrangell,32
+2014,230,United States,28210,Rafael Capó,33
+2014,230,United States,14977,Hayes Center,26
+2014,230,United States,1366,Aspen Park,39
+2014,230,United States,15,Abbottsburg,33
+2014,230,United States,19368,Liberty Grove,29
+2014,230,United States,3673,Bow Mar,18
+2014,230,United States,32126,South Laguna,31
+2014,230,United States,15057,Heartwell,22
+2014,230,United States,18446,Lake Ronkonkoma,25
+2014,230,United States,5259,Cape Neddick,33
+2014,230,United States,32083,South Euclid,30
+2014,230,United States,7938,Creelsboro,45
+2014,230,United States,14556,Hanoverton,38
+2014,230,United States,34181,Tolchester Beach,26
+2014,230,United States,29166,Robertsdale,34
+2014,230,United States,24589,North Eastham,34
+2014,230,United States,28817,Richland,35
+2014,230,United States,34519,Truscott,40
+2014,230,United States,27543,Port Alto,34
+2014,230,United States,1326,Ashland,18
+2014,230,United States,33832,Teutopolis,73
+2014,230,United States,35160,Vassalboro,35
+2014,230,United States,8751,Deeson,41
+2014,230,United States,32561,Stallion Springs,36
+2014,230,United States,17742,King Cove,36
+2014,230,United States,32993,Straughn,36
+2014,230,United States,2614,Ben Arnold,39
+2014,230,United States,24340,Nicasio,27
+2014,230,United States,1904,Baraboo,27
+2014,230,United States,14041,Greycliff,31
+2014,230,United States,4795,Byers,36
+2014,230,United States,35830,Wapinitia,39
+2014,230,United States,30663,Sarversville,37
+2014,230,United States,36365,Wells,43
+2014,230,United States,34699,Twodot,39
+2014,230,United States,14974,Haydenville,29
+2014,230,United States,36179,Waycross,27
+2014,230,United States,14931,Hawarden,35
+2014,230,United States,31104,Severna Park,26
+2014,230,United States,16411,Ikatan,26
+2014,230,United States,34685,Twin Peaks,42
+2014,230,United States,24898,Nuangola,27
+2014,230,United States,2053,Basin,6
+2014,230,United States,12040,Fortville,32
+2014,230,United States,1343,Ashtabula,43
+2014,230,United States,23026,Morrison Bluff,36
+2014,230,United States,22903,Mooringsport,40
+2014,230,United States,8296,Cuyamungue,41
+2014,230,United States,7672,Cortaro,23
+2014,230,United States,20902,Marcella,38
+2014,230,United States,32558,Staley,23
+2014,230,United States,18346,Lake Erie Beach,45
+2014,230,United States,37473,Windsor Locks,23
+2014,230,United States,928,Antares,39
+2014,230,United States,15143,Helotes,32
+2014,230,United States,3736,Boyden Arbor,25
+2014,230,United States,8562,Dawn,42
+2014,230,United States,29123,Roachtown,42
+2014,230,United States,23550,Nahant,32
+2014,230,United States,33475,Sylvanite,37
+2014,230,United States,31685,Sinclair,67
+2014,230,United States,25170,Oconto Falls,25
+2014,230,United States,14596,Hardeeville,28
+2014,230,United States,16185,Humansville,29
+2014,230,United States,9040,Diablock,22
+2014,230,United States,21821,Mendoza,41
+2014,230,United States,35844,Ward Ridge,28
+2014,230,United States,30288,Sallyards,31
+2014,230,United States,23796,Nesmith,29
+2014,230,United States,16557,Inguadona,42
+2014,230,United States,36531,West Hempstead,39
+2014,230,United States,33660,Tavares,38
+2014,230,United States,696,Amanda Park,26
+2014,230,United States,2425,Belgreen,44
+2014,230,United States,19405,Lilbourn,28
+2014,230,United States,25795,Oval,28
+2014,230,United States,21367,Maypearl,34
+2014,230,United States,17039,Jeromesville,23
+2014,230,United States,25552,Orchard Hill,33
+2014,230,United States,34208,Tomnolen,39
+2014,230,United States,35831,Wapiti,39
+2014,230,United States,9857,East Mountain,35
+2014,230,United States,38038,Yermo,28
+2014,230,United States,14377,Haltom City,36
+2014,230,United States,2203,Bazemore,33
+2014,230,United States,8987,Devault,28
+2014,230,United States,3700,Bowleys Quarters,35
+2014,230,United States,24401,Nitro,35
+2014,230,United States,17992,Komalty,16
+2014,230,United States,11686,Flomaton,25
+2014,230,United States,31752,Skyway,31
+2014,230,United States,4278,Broomtown,29
+2014,230,United States,3840,Branchburg Park,28
+2014,230,United States,25818,Ovilla,32
+2014,230,United States,33644,Tarzan,4
+2014,230,United States,14019,Greig,24
+2014,230,United States,242,Akhiok,69
+2014,230,United States,5506,Caruthers,44
+2014,230,United States,33793,Tenstrike,34
+2014,230,United States,18141,La Paz,29
+2014,230,United States,33747,Tempe,42
+2014,230,United States,32124,South La Paloma,38
+2014,230,United States,36973,White Horse Beach,26
+2014,230,United States,37969,Yaak,31
+2014,230,United States,843,Andrix,31
+2014,230,United States,24553,North Brookfield,44
+2014,230,United States,23843,New Baden,48
+2014,230,United States,9064,Dickerson,39
+2014,230,United States,1244,Arrow Rock,31
+2014,230,United States,10043,Eden Valley,28
+2014,230,United States,9379,Dracut,23
+2014,230,United States,24530,North Beach Haven,33
+2014,230,United States,27424,Point Roberts,40
+2014,230,United States,11626,Flanagan,26
+2014,230,United States,32688,Statenville,30
+2014,230,United States,13146,Glen Ullin,31
+2014,230,United States,30790,Schererville,33
+2014,230,United States,27232,Plaquemine,41
+2014,230,United States,16893,Jane,29
+2014,230,United States,13896,Greenfield,26
+2014,230,United States,3176,Bladenboro,24
+2014,230,United States,18865,Laurence Harbor,30
+2014,230,United States,38184,Zurich,21
+2014,230,United States,8337,Dahlia,32
+2014,230,United States,37886,Wray,17
+2014,230,United States,34411,Triadelphia,35
+2014,230,United States,21427,McCall,41
+2014,230,United States,11520,Fieldbrook,35
+2014,230,United States,12751,Gassaway,25
+2014,230,United States,6402,Chipita Park,37
+2014,230,United States,31629,Silver Plume,37
+2014,230,United States,26010,Palmas del Mar,27
+2014,230,United States,8317,Cypress Quarters,27
+2014,230,United States,8772,Del Valle,28
+2014,230,United States,8294,Cuyahoga Heights,43
+2014,230,United States,17142,Jolley,42
+2014,230,United States,35951,Wasco,45
+2014,230,United States,24590,North Eaton,38
+2014,230,United States,28918,Ridgeway,7
+2014,230,United States,13375,Good Hart,34
+2014,230,United States,35061,Valley View Park,36
+2014,230,United States,24988,Oak Point,41
+2014,230,United States,32267,Southside,27
+2014,230,United States,34875,Universal City,34
+2014,230,United States,14268,Haddon Heights,25
+2014,230,United States,20846,Maple Shade,48
+2014,230,United States,12748,Gasport,45
+2014,230,United States,7069,Coin,36
+2014,230,United States,35078,Vamo,42
+2014,230,United States,3425,Bock,44
+2014,230,United States,18058,Kwethluk,39
+2014,230,United States,19386,Licking,25
+2014,230,United States,26379,Pawlet,24
+2014,230,United States,9445,Du Quoin,35
+2014,230,United States,17935,Knights Landing,39
+2014,230,United States,21161,Mary Esther,41
+2014,230,United States,600,Alstead,26
+2014,230,United States,29651,Rothsville,27
+2014,230,United States,25354,Oley,24
+2014,230,United States,10263,Elbing,37
+2014,230,United States,26579,Penns Creek,33
+2014,230,United States,31348,Shenorock,29
+2014,230,United States,33867,The Colony,42
+2014,230,United States,16741,Islip Terrace,47
+2014,230,United States,25646,Orrtanna,35
+2014,230,United States,15118,Heilwood,37
+2014,230,United States,23396,Muir,28
+2014,230,United States,16257,Huntington Woods,39
+2014,230,United States,21604,McQueen,28
+2014,230,United States,32885,Stoneboro,32
+2014,230,United States,2838,Bethania,35
+2014,230,United States,35470,Virgil,36
+2014,230,United States,18882,Lavon,29
+2014,230,United States,3545,Bonner Springs,34
+2014,230,United States,36841,Westwater,31
+2014,230,United States,30830,Scioto Furnace,15
+2014,230,United States,11597,Fishtail,34
+2014,230,United States,2111,Batson,36
+2014,230,United States,33237,Sunburg,30
+2014,230,United States,10910,Eulaton,28
+2014,230,United States,28222,Railroad,38
+2014,230,United States,17053,Jesmond Dene,22
+2014,230,United States,10561,Elrosa,33
+2014,230,United States,33701,Tea,25
+2014,230,United States,3894,Bratt,30
+2014,230,United States,26376,Paw Paw Lake,35
+2014,230,United States,20047,Lostine,30
+2014,230,United States,35344,Victory Gardens,35
+2014,230,United States,6124,Chateaugay,34
+2014,230,United States,33446,Switz City,41
+2014,230,United States,22085,Middleway,28
+2014,230,United States,14591,Harbour Pointe,40
+2014,230,United States,4352,Bruceton Mills,47
+2014,230,United States,7890,Cramerton,44
+2014,230,United States,18069,La Bolt,56
+2014,230,United States,27166,Placer,33
+2014,230,United States,5540,Caselton,42
+2014,230,United States,26788,Philip,28
+2014,230,United States,19586,Lisco,42
+2014,230,United States,2815,Berville,23
+2014,230,United States,11491,Ferney,28
+2014,230,United States,8892,Dennis Acres,33
+2014,230,United States,23542,Naches,29
+2014,230,United States,34285,Towaco,34
+2014,230,United States,3127,Black Lick,32
+2014,230,United States,9791,East Fultonham,68
+2014,230,United States,14033,Gresston,31
+2014,230,United States,36091,Watonga,38
+2014,230,United States,17591,Kerby,33
+2014,230,United States,17093,Johnetta,30
+2014,230,United States,9433,Dry Run,40
+2014,230,United States,8082,Crossroads,31
+2014,230,United States,23734,Nehawka,39
+2014,230,United States,1132,Arietta,33
+2014,230,United States,23067,Morton Grove,28
+2014,230,United States,16469,Indian Creek,42
+2014,230,United States,28434,Reader,29
+2014,230,United States,36297,Weigelstown,38
+2014,230,United States,6313,Chetek,31
+2014,230,United States,7432,Connoquenessing,26
+2014,230,United States,37316,Willow Valley,24
+2014,230,United States,20668,Mamou,30
+2014,230,United States,22984,Morita,31
+2014,230,United States,10581,Elverson,40
+2014,230,United States,20376,Lynne,31
+2014,230,United States,25122,Obion,48
+2014,230,United States,22915,Moquino,39
+2015,230,United States,18004,Kopperl,38
+2015,230,United States,34984,Vair,43
+2015,230,United States,17340,Kapa'a,48
+2015,230,United States,31758,Slanesville,37
+2015,230,United States,22604,Molalla,28
+2015,230,United States,35193,Venersborg,50
+2015,230,United States,6574,Claremont,22
+2015,230,United States,30779,Schaal,30
+2015,230,United States,1811,Baldwin City,32
+2015,230,United States,23560,Nanafalia,29
+2015,230,United States,34466,Trout Run,45
+2015,230,United States,7576,Corcovado,36
+2015,230,United States,19232,Lesslie,48
+2015,230,United States,18983,Leathersville,28
+2015,230,United States,34280,Toughkenamon,31
+2015,230,United States,24579,North Cowden,41
+2015,230,United States,21439,McClave,42
+2015,230,United States,27344,Plum Branch,30
+2015,230,United States,18110,La Grange Park,24
+2015,230,United States,34028,Tierra Verde,42
+2015,230,United States,16401,Idria,44
+2015,230,United States,18087,La Cueva,36
+2015,230,United States,21001,Marion Hill,38
+2015,230,United States,34403,Tresckow,29
+2015,230,United States,9099,Dillon,39
+2015,230,United States,26076,Panaca,46
+2015,230,United States,30865,Scott,39
+2015,230,United States,14194,Gum Branch,47
+2015,230,United States,30132,Saint Louis Park,34
+2015,230,United States,30304,Salt Wells,39
+2015,230,United States,25555,Orchard Mesa,27
+2015,230,United States,4977,Calvert City,40
+2015,230,United States,22146,Mier,43
+2015,230,United States,17632,Key Biscayne,47
+2015,230,United States,37194,Wilkes-Barre,37
+2015,230,United States,25933,Page City,47
+2015,230,United States,9932,Eastchester,29
+2015,230,United States,32359,Spillville,34
+2015,230,United States,14380,Hambleton,43
+2015,230,United States,11008,Ewart,34
+2015,230,United States,6809,Clewiston,37
+2015,230,United States,25332,Old River-Winfree,28
+2015,230,United States,10367,Elk Garden,37
+2015,230,United States,33799,Termo,43
+2015,230,United States,17151,Jones Creek,39
+2015,230,United States,689,Amado,43
+2015,230,United States,357,Alcester,31
+2015,230,United States,37898,Wright City,43
+2015,230,United States,3059,Birds,23
+2015,230,United States,18648,Lancaster,14
+2015,230,United States,35605,Waite Hill,29
+2015,230,United States,28907,Ridgemark,39
+2015,230,United States,4270,Brookville,28
+2015,230,United States,30387,San Jacinto,36
+2015,230,United States,8306,Cylon,48
+2015,230,United States,31323,Shell Knob,34
+2015,230,United States,22020,Mickleton,38
+2015,230,United States,13109,Glen Avon,42
+2015,230,United States,26906,Pikeview,41
+2015,230,United States,5664,Caton,33
+2015,230,United States,13507,Grabill,38
+2015,230,United States,25581,Orick,33
+2015,230,United States,19338,Lexington Heights,30
+2015,230,United States,24164,New Zion,33
+2015,230,United States,20961,Marin City,27
+2015,230,United States,13799,Great Neck,22
+2015,230,United States,1207,Armstrong Creek,36
+2015,230,United States,19979,Lorentz,37
+2015,230,United States,3663,Bourneville,42
+2015,230,United States,25595,Oriole Beach,28
+2015,230,United States,10055,Edgartown,41
+2015,230,United States,34400,Trentwood,32
+2015,230,United States,24805,Northrop,37
+2015,230,United States,3165,Blackville,30
+2015,230,United States,37938,Wyndham,33
+2015,230,United States,17054,Jessie,31
+2015,230,United States,34512,Trumansburg,33
+2015,230,United States,14492,Hanaford,40
+2015,230,United States,24007,New Laguna,28
+2015,230,United States,29165,Robertsburg,34
+2015,230,United States,19908,Long Meadow,47
+2015,230,United States,4860,Cadogan,41
+2015,230,United States,13868,Greenback,30
+2015,230,United States,7668,Corryton,46
+2015,230,United States,20672,Manahawkin,37
+2015,230,United States,2862,Bethel Acres,24
+2015,230,United States,18514,Lakemore,32
+2015,230,United States,21405,McAdenville,30
+2015,230,United States,16430,Imlaystown,37
+2015,230,United States,2739,Bergen Park,27
+2015,230,United States,29371,Roe Park,45
+2015,230,United States,5687,Cavendish,40
+2015,230,United States,27648,Portales,25
+2015,230,United States,12992,Gilford,41
+2015,230,United States,20131,Lowellville,28
+2015,230,United States,37884,Wounded Knee,32
+2015,230,United States,13304,Goffstown,38
+2015,230,United States,15434,Highland Home,34
+2015,230,United States,19839,Lompoc,37
+2015,230,United States,31249,Shawboro,36
+2015,230,United States,8375,Dallardsville,27
+2015,230,United States,4840,Cache,48
+2015,230,United States,24668,North Muskegon,29
+2015,230,United States,12666,Gardners,29
+2015,230,United States,37403,Wimbledon,36
+2015,230,United States,8730,Deer River,41
+2015,230,United States,33227,Sun River,43
+2015,230,United States,29391,Rogersville,5
+2015,230,United States,9772,East Dailey,31
+2015,230,United States,29938,Sabinsville,31
+2015,230,United States,31266,Shay,45
+2015,230,United States,7525,Coosa,34
+2015,230,United States,31870,Smoot,29
+2015,230,United States,9331,Dover,45
+2015,230,United States,20901,Marcell,27
+2015,230,United States,34031,Tiff City,28
+2015,230,United States,26752,Petronila,30
+2015,230,United States,34910,Upper Preston,37
+2015,230,United States,15783,Hollywood Park,32
+2015,230,United States,3048,Biorka,32
+2015,230,United States,26105,Panton,43
+2015,230,United States,7914,Crary,21
+2015,230,United States,11747,Floriston,34
+2015,230,United States,12142,Francis Mills,22
+2015,230,United States,17306,Kalvesta,36
+2015,230,United States,36513,West Frostproof,43
+2015,230,United States,31936,Soham,24
+2015,230,United States,25083,Oakshade,33
+2015,230,United States,1820,Balko,30
+2015,230,United States,12680,Gargatha,28
+2015,230,United States,10831,Esopus,41
+2015,230,United States,26483,Peeples Valley,39
+2015,230,United States,2175,Bayou Cane,42
+2015,230,United States,29729,Royal City,32
+2015,230,United States,4900,Cale,37
+2015,230,United States,19507,Linden,4
+2015,230,United States,54,Accomac,31
+2015,230,United States,16702,Isabela,46
+2015,230,United States,34990,Valdese,42
+2015,230,United States,5192,Cañon,34
+2015,230,United States,20924,Marfa,29
+2015,230,United States,1299,Asher,37
+2015,230,United States,26769,Pharr,51
+2015,230,United States,3463,Bokeelia,47
+2015,230,United States,3755,Boynton,45
+2015,230,United States,27559,Port Chilkoot,35
+2015,230,United States,22984,Morita,28
+2015,230,United States,25354,Oley,25
+2015,230,United States,8892,Dennis Acres,38
+2015,230,United States,25122,Obion,27
+2015,230,United States,33867,The Colony,38
+2015,230,United States,10581,Elverson,37
+2015,230,United States,28434,Reader,38
+2015,230,United States,36091,Watonga,38
+2015,230,United States,9433,Dry Run,43
+2015,230,United States,16469,Indian Creek,37
+2015,230,United States,2815,Berville,45
+2015,230,United States,23734,Nehawka,43
+2015,230,United States,36841,Westwater,26
+2015,230,United States,18865,Laurence Harbor,32
+2015,230,United States,17591,Kerby,21
+2015,230,United States,20668,Mamou,39
+2015,230,United States,17093,Johnetta,45
+2015,230,United States,843,Andrix,30
+2015,230,United States,11491,Ferney,42
+2015,230,United States,5540,Caselton,42
+2015,230,United States,3127,Black Lick,41
+2015,230,United States,21650,Meaux,33
+2015,230,United States,8772,Del Valle,35
+2015,230,United States,19586,Lisco,43
+2015,230,United States,26788,Philip,30
+2015,230,United States,34285,Towaco,32
+2015,230,United States,23542,Naches,23
+2015,230,United States,23067,Morton Grove,33
+2015,230,United States,27166,Placer,47
+2015,230,United States,37886,Wray,42
+2015,230,United States,8082,Crossroads,26
+2015,230,United States,14033,Gresston,46
+2015,230,United States,18069,La Bolt,29
+2015,230,United States,33701,Tea,35
+2015,230,United States,26376,Paw Paw Lake,40
+2015,230,United States,17053,Jesmond Dene,48
+2015,230,United States,35344,Victory Gardens,34
+2015,230,United States,20047,Lostine,31
+2015,230,United States,22085,Middleway,40
+2015,230,United States,6124,Chateaugay,49
+2015,230,United States,37969,Yaak,39
+2015,230,United States,9791,East Fultonham,74
+2015,230,United States,33446,Switz City,44
+2015,230,United States,10561,Elrosa,30
+2015,230,United States,30830,Scioto Furnace,47
+2015,230,United States,2111,Batson,41
+2015,230,United States,11597,Fishtail,23
+2015,230,United States,10910,Eulaton,32
+2015,230,United States,18882,Lavon,25
+2015,230,United States,25795,Oval,41
+2015,230,United States,32267,Southside,31
+2015,230,United States,35470,Virgil,34
+2015,230,United States,2838,Bethania,34
+2015,230,United States,16257,Huntington Woods,25
+2015,230,United States,10263,Elbing,37
+2015,230,United States,3545,Bonner Springs,45
+2015,230,United States,23396,Muir,28
+2015,230,United States,36297,Weigelstown,49
+2015,230,United States,1132,Arietta,29
+2015,230,United States,32885,Stoneboro,35
+2015,230,United States,24352,Nicholson,43
+2015,230,United States,25646,Orrtanna,37
+2015,230,United States,26579,Penns Creek,38
+2015,230,United States,31348,Shenorock,32
+2015,230,United States,15118,Heilwood,33
+2015,230,United States,16741,Islip Terrace,37
+2015,230,United States,6313,Chetek,37
+2015,230,United States,35078,Vamo,27
+2015,230,United States,7069,Coin,29
+2015,230,United States,9445,Du Quoin,34
+2015,230,United States,17935,Knights Landing,45
+2015,230,United States,600,Alstead,27
+2015,230,United States,28918,Ridgeway,42
+2015,230,United States,24590,North Eaton,37
+2015,230,United States,30839,Scofield,34
+2015,230,United States,35951,Wasco,49
+2015,230,United States,13375,Good Hart,36
+2015,230,United States,20846,Maple Shade,35
+2015,230,United States,26010,Palmas del Mar,38
+2015,230,United States,29651,Rothsville,32
+2015,230,United States,35061,Valley View Park,39
+2015,230,United States,24988,Oak Point,26
+2015,230,United States,33644,Tarzan,37
+2015,230,United States,12751,Gassaway,28
+2015,230,United States,8337,Dahlia,47
+2015,230,United States,21427,McCall,43
+2015,230,United States,11520,Fieldbrook,49
+2015,230,United States,14268,Haddon Heights,47
+2015,230,United States,4430,Buchanan Lake Village,28
+2015,230,United States,8317,Cypress Quarters,41
+2015,230,United States,31629,Silver Plume,39
+2015,230,United States,19386,Licking,42
+2015,230,United States,34875,Universal City,34
+2015,230,United States,8294,Cuyahoga Heights,30
+2015,230,United States,3425,Bock,33
+2015,230,United States,13896,Greenfield,42
+2015,230,United States,16893,Jane,35
+2015,230,United States,17142,Jolley,22
+2015,230,United States,24553,North Brookfield,34
+2015,230,United States,3176,Bladenboro,33
+2015,230,United States,18410,Lake Mohegan,39
+2015,230,United States,14019,Greig,49
+2015,230,United States,38184,Zurich,37
+2015,230,United States,11626,Flanagan,38
+2015,230,United States,5506,Caruthers,40
+2015,230,United States,9064,Dickerson,35
+2015,230,United States,33747,Tempe,36
+2015,230,United States,34411,Triadelphia,30
+2015,230,United States,3700,Bowleys Quarters,31
+2015,230,United States,36973,White Horse Beach,31
+2015,230,United States,27232,Plaquemine,36
+2015,230,United States,33793,Tenstrike,33
+2015,230,United States,6402,Chipita Park,39
+2015,230,United States,24401,Nitro,30
+2015,230,United States,32688,Statenville,44
+2015,230,United States,3840,Branchburg Park,40
+2015,230,United States,4278,Broomtown,44
+2015,230,United States,23843,New Baden,45
+2015,230,United States,2203,Bazemore,28
+2015,230,United States,30790,Schererville,38
+2015,230,United States,8987,Devault,34
+2015,230,United States,24530,North Beach Haven,37
+2015,230,United States,1121,Argusville,40
+2015,230,United States,9857,East Mountain,35
+2015,230,United States,242,Akhiok,60
+2015,230,United States,18141,La Paz,38
+2015,230,United States,34371,Tremont,37
+2015,230,United States,25818,Ovilla,30
+2015,230,United States,17992,Komalty,42
+2015,230,United States,10043,Eden Valley,32
+2015,230,United States,9379,Dracut,41
+2015,230,United States,12748,Gasport,27
+2015,230,United States,11686,Flomaton,26
+2015,230,United States,18058,Kwethluk,35
+2015,230,United States,32124,South La Paloma,29
+2015,230,United States,33475,Sylvanite,41
+2015,230,United States,31752,Skyway,35
+2015,230,United States,27424,Point Roberts,31
+2015,230,United States,35831,Wapiti,40
+2015,230,United States,1244,Arrow Rock,38
+2015,230,United States,13146,Glen Ullin,37
+2015,230,United States,25552,Orchard Hill,40
+2015,230,United States,34208,Tomnolen,25
+2015,230,United States,21161,Mary Esther,40
+2015,230,United States,11131,Fairfield Glade,30
+2015,230,United States,38038,Yermo,39
+2015,230,United States,26379,Pawlet,38
+2015,230,United States,21367,Maypearl,34
+2015,230,United States,17039,Jeromesville,30
+2015,230,United States,14377,Haltom City,39
+2015,230,United States,7403,Conesus Lake,33
+2015,230,United States,16557,Inguadona,37
+2015,230,United States,30288,Sallyards,38
+2015,230,United States,9040,Diablock,28
+2015,230,United States,37473,Windsor Locks,31
+2015,230,United States,21821,Mendoza,42
+2015,230,United States,4795,Byers,50
+2015,230,United States,14041,Greycliff,34
+2015,230,United States,31685,Sinclair,86
+2015,230,United States,29123,Roachtown,40
+2015,230,United States,8562,Dawn,39
+2015,230,United States,696,Amanda Park,36
+2015,230,United States,17931,Knifley,28
+2015,230,United States,16411,Ikatan,40
+2015,230,United States,19405,Lilbourn,39
+2015,230,United States,23796,Nesmith,26
+2015,230,United States,36531,West Hempstead,36
+2015,230,United States,25170,Oconto Falls,37
+2015,230,United States,32558,Staley,39
+2015,230,United States,7672,Cortaro,39
+2015,230,United States,3736,Boyden Arbor,47
+2015,230,United States,6238,Cherryplain,27
+2015,230,United States,15143,Helotes,33
+2015,230,United States,23550,Nahant,33
+2015,230,United States,928,Antares,36
+2015,230,United States,5259,Cape Neddick,21
+2015,230,United States,12040,Fortville,35
+2015,230,United States,1343,Ashtabula,36
+2015,230,United States,2053,Basin,32
+2015,230,United States,34685,Twin Peaks,31
+2015,230,United States,14931,Hawarden,27
+2015,230,United States,16185,Humansville,35
+2015,230,United States,22903,Mooringsport,30
+2015,230,United States,8296,Cuyamungue,48
+2015,230,United States,24898,Nuangola,27
+2015,230,United States,14974,Haydenville,46
+2015,230,United States,36365,Wells,25
+2015,230,United States,35830,Wapinitia,36
+2015,230,United States,30663,Sarversville,47
+2015,230,United States,36179,Waycross,39
+2015,230,United States,23026,Morrison Bluff,38
+2015,230,United States,20868,Mappsburg,31
+2015,230,United States,2425,Belgreen,26
+2015,230,United States,31104,Severna Park,37
+2015,230,United States,33660,Tavares,32
+2015,230,United States,37988,Yampa,21
+2015,230,United States,28817,Richland,32
+2015,230,United States,17742,King Cove,31
+2015,230,United States,32561,Stallion Springs,35
+2015,230,United States,35223,Verdery,28
+2015,230,United States,1904,Baraboo,31
+2015,230,United States,2614,Ben Arnold,39
+2015,230,United States,35810,Wanaque,32
+2015,230,United States,21638,Meadowdale,31
+2015,230,United States,27543,Port Alto,33
+2015,230,United States,1326,Ashland,25
+2015,230,United States,29166,Robertsdale,39
+2015,230,United States,24589,North Eastham,37
+2015,230,United States,3673,Bow Mar,35
+2015,230,United States,14556,Hanoverton,44
+2015,230,United States,8751,Deeson,35
+2015,230,United States,36434,Wesson,41
+2015,230,United States,34519,Truscott,42
+2015,230,United States,7861,Coyville,32
+2015,230,United States,24340,Nicasio,47
+2015,230,United States,35160,Vassalboro,55
+2015,230,United States,33832,Teutopolis,67
+2015,230,United States,32126,South Laguna,32
+2015,230,United States,19368,Liberty Grove,36
+2015,230,United States,15,Abbottsburg,41
+2015,230,United States,35684,Walker Valley,2
+2015,230,United States,18346,Lake Erie Beach,23
+2015,230,United States,1366,Aspen Park,35
+2015,230,United States,28210,Rafael Capó,35
+2015,230,United States,14977,Hayes Center,38
+2015,230,United States,34181,Tolchester Beach,47
+2015,230,United States,25505,Optimo,35
+2015,230,United States,9524,Dundarrach,34
+2015,230,United States,23441,Munich,30
+2015,230,United States,33520,Taft Heights,30
+2015,230,United States,28502,Red Mesa,35
+2015,230,United States,7695,Cos Cob,32
+2015,230,United States,14287,Hahira,45
+2015,230,United States,30517,Sandy Level,23
+2015,230,United States,16992,Jemison,34
+2015,230,United States,15057,Heartwell,29
+2015,230,United States,32083,South Euclid,43
+2015,230,United States,7938,Creelsboro,41
+2015,230,United States,33806,Terre du Lac,34
+2015,230,United States,5966,Chalco,44
+2015,230,United States,37885,Wrangell,31
+2015,230,United States,7071,Cokato,31
+2015,230,United States,29530,Rose Tree,35
+2015,230,United States,20376,Lynne,30
+2015,230,United States,7781,Coupland,40
+2015,230,United States,10134,Edmund,26
+2015,230,United States,13068,Glancy,27
+2015,230,United States,13360,Golf View,34
+2015,230,United States,7409,Coney Island,46
+2015,230,United States,3081,Biscay,31
+2015,230,United States,12341,Frenchburg,40
+2015,230,United States,13669,Grannis,24
+2015,230,United States,19374,Liberty Plain,16
+2015,230,United States,7432,Connoquenessing,44
+2015,230,United States,23264,Mount Pocono,43
+2015,230,United States,34230,Tooele,42
+2015,230,United States,18332,Lake Clarke Shores,40
+2015,230,United States,37316,Willow Valley,35
+2015,230,United States,22915,Moquino,26
+2015,230,United States,34568,Tumacacori,31
+2015,230,United States,29158,Roberta Mill,6
+2015,230,United States,24014,New Lexington,36
+2015,230,United States,31010,Sekiu,50
+2015,230,United States,3762,Bozeman Hot Springs,50
+2015,230,United States,7890,Cramerton,37
+2015,230,United States,7343,Compass Lake,30
+2015,230,United States,9427,Drumright,36
+2015,230,United States,20413,Lytle Creek,35
+2015,230,United States,20270,Lunds,46
+2015,230,United States,20931,Marguerite,38
+2015,230,United States,24349,Nichols Hills,30
+2015,230,United States,7529,Copake,40
+2015,230,United States,1604,Avenal,29
+2015,230,United States,18375,Lake Hughes,46
+2015,230,United States,28385,Ravia,32
+2015,230,United States,30698,Sauquoit,41
+2015,230,United States,7847,Cowlington,36
+2015,230,United States,9258,Dorchester,52
+2015,230,United States,4352,Bruceton Mills,32
+2015,230,United States,34193,Tolono,38
+2015,230,United States,34256,Topstone,32
+2015,230,United States,13692,Grantsburg,37
+2015,230,United States,17353,Karthaus,33
+2015,230,United States,34422,Trilby,49
+2015,230,United States,12653,Gardere,41
+2015,230,United States,3894,Bratt,35
+2015,230,United States,24764,North York,28
+2015,230,United States,14591,Harbour Pointe,31
+2015,230,United States,20642,Malott,33
+2015,230,United States,12152,Frankewing,30
+2015,230,United States,12693,Garlin,34
+2015,230,United States,35833,Wappingers Falls,39
+2015,230,United States,32358,Spillertown,29
+2015,230,United States,28222,Railroad,33
+2015,230,United States,7074,Coker,38
+2015,230,United States,33237,Sunburg,41
+2015,230,United States,35355,Vidrine,42
+2015,230,United States,11010,Ewen,41
+2015,230,United States,2789,Bernie,33
+2015,230,United States,21432,McCammon,38
+2015,230,United States,14173,Guin,35
+2015,230,United States,16520,Indios,30
+2015,230,United States,23805,Netcong,34
+2015,230,United States,6327,Cheyenne Wells,30
+2015,230,United States,24180,Newberg,47
+2015,230,United States,19434,Lime Lake,35
+2015,230,United States,1040,Arbor Vitae,47
+2015,230,United States,2291,Beaver Bay,37
+2015,230,United States,22998,Moroni,42
+2015,230,United States,29490,Rosa Sánchez,44
+2015,230,United States,8322,Dacono,38
+2015,230,United States,7160,College Place,24
+2015,230,United States,58,Aceitunas,33
+2015,230,United States,21604,McQueen,34
+2015,230,United States,10194,Ekwok,29
+2015,230,United States,14522,Hanna,27
+2015,230,United States,6221,Cherry Grove Beach,67
+2015,230,United States,1246,Arrowhead Highlands,36
+2015,230,United States,3659,Bourbonnais,46
+2015,230,United States,23284,Mount Summit,36
+2015,230,United States,14628,Harkers Island,45
+2015,230,United States,15610,Hiteman,34
+2015,230,United States,6115,Chaseley,27
+2015,230,United States,28129,Queen Valley,34
+2015,230,United States,20518,Madison Park,55
+2015,230,United States,15726,Hollandsburg,33
+2015,230,United States,14043,Grider,46
+2015,230,United States,26778,Phelps City,34
+2015,230,United States,28780,Rich Creek,45
+2015,230,United States,3018,Biggs,29
+2015,230,United States,24658,North Manitou,34
+2015,230,United States,15461,Hightsville,34
+2015,230,United States,2782,Bernardston,42
+2015,230,United States,21351,Mayhill,36
+2015,230,United States,7113,Colebrook,36
+2015,230,United States,21282,Mauldin,44
+2015,230,United States,28361,Raton,35
+2015,230,United States,12483,Furley,38
+2015,230,United States,30342,San Acacia,35
+2015,230,United States,24076,New Plymouth,37
+2015,230,United States,31401,Sherwin,29
+2015,230,United States,15248,Herlong,22
+2015,230,United States,9884,East Portal,40
+2015,230,United States,5407,Caro,29
+2015,230,United States,11753,Flowella,30
+2015,230,United States,8839,Delray,43
+2015,230,United States,26300,Pastura,36
+2015,230,United States,9360,Downingtown,29
+2015,230,United States,890,Annamoriah,34
+2015,230,United States,24700,North Ridge,40
+2015,230,United States,17730,Kinder,27
+2015,230,United States,15689,Holden Beach,30
+2015,230,United States,21431,McCamey,44
+2015,230,United States,30751,Sayner,38
+2015,230,United States,4491,Buell,37
+2015,230,United States,31006,Segundo,35
+2015,230,United States,20535,Madrone,33
+2015,230,United States,25653,Ortley Beach,44
+2015,230,United States,22430,Mineral Hills,35
+2015,230,United States,15646,Hodgdon,39
+2015,230,United States,10193,Ekron,38
+2015,230,United States,16891,Jamison,47
+2015,230,United States,12563,Gallipolis Ferry,36
+2015,230,United States,3409,Boalsburg,35
+2015,230,United States,1245,Arrowbear Lake,51
+2015,230,United States,25639,Orpha,25
+2015,230,United States,25971,Palatine Bridge,36
+2015,230,United States,6904,Cloquet,39
+2015,230,United States,30216,Saks,31
+2015,230,United States,34060,Tilleda,34
+2015,230,United States,16416,Iliamna,42
+2015,230,United States,38042,Yewed,34
+2015,230,United States,7594,Corfu,33
+2015,230,United States,34584,Tunnelhill,33
+2015,230,United States,30548,Sans Souci,40
+2015,230,United States,36499,West Elkton,37
+2015,230,United States,16433,Impact,25
+2015,230,United States,7408,Conewango,34
+2015,230,United States,20538,Magalia,32
+2015,230,United States,29320,Rockwall,54
+2015,230,United States,19124,Lemeta,39
+2015,230,United States,17999,Koontzville,43
+2015,230,United States,27236,Plata,31
+2015,230,United States,27840,Premont,43
+2015,230,United States,28032,Puerto de Luna,49
+2015,230,United States,25424,Omer,41
+2015,230,United States,9237,Donner,26
+2015,230,United States,30734,Saxapahaw,33
+2015,230,United States,35503,Vollmar,35
+2015,230,United States,7485,Cookietown,41
+2015,230,United States,372,Alden Bridge,37
+2015,230,United States,9549,Dunkerton,41
+2015,230,United States,5304,Carbonville,33
+2015,230,United States,34192,Tolna,54
+2015,230,United States,5633,Cataño,38
+2015,230,United States,22453,Minidoka,37
+2015,230,United States,15835,Homer City,34
+2015,230,United States,20412,Lytle,37
+2015,230,United States,10233,El Refugio,32
+2015,230,United States,23592,Naples Park,35
+2015,230,United States,15102,Hedrick,32
+2015,230,United States,2971,Big Moose,28
+2015,230,United States,23870,New Braintree,37
+2015,230,United States,7050,Coffeyville,42
+2015,230,United States,20475,Madaket,33
+2015,230,United States,6907,Cloud Lake,35
+2015,230,United States,35082,Van Alstyne,32
+2015,230,United States,20575,Mahaffey,39
+2015,230,United States,17329,Kannapolis,29
+2015,230,United States,38036,Yerington,30
+2015,230,United States,10059,Edgecomb,33
+2015,230,United States,35861,Ware Shoals,37
+2015,230,United States,3893,Bratenahl,37
+2015,230,United States,28367,Raven,39
+2015,230,United States,8493,Darling,37
+2015,230,United States,11696,Florahome,37
+2015,230,United States,49,Absecon,27
+2015,230,United States,20710,Manchester Center,38
+2015,230,United States,20610,Makoti,35
+2015,230,United States,29887,Ruthsburg,42
+2015,230,United States,14072,Griswoldville,43
+2015,230,United States,3876,Branson West,35
+2015,230,United States,25479,Oologah,34
+2015,230,United States,35844,Ward Ridge,32
+2015,230,United States,1417,Athol Springs,24
+2015,230,United States,28221,Rail Road Flat,27
+2015,230,United States,31075,Sentinel Butte,39
+2015,230,United States,24583,North Crows Nest,41
+2015,230,United States,18340,Lake Davis,38
+2015,230,United States,25078,Oakpark,27
+2015,230,United States,5645,Catesby,37
+2015,230,United States,20902,Marcella,40
+2015,230,United States,33591,Tamora,32
+2015,230,United States,6687,Claycomo,53
+2015,230,United States,14596,Hardeeville,34
+2015,230,United States,6206,Cherokee,29
+2015,230,United States,3501,Bombay Beach,38
+2015,230,United States,232,Airport Drive,36
+2015,230,United States,13388,Goodings Grove,29
+2015,230,United States,36322,Weld,38
+2015,230,United States,17587,Keosauqua,34
+2015,230,United States,7749,Cotuit,26
+2015,230,United States,13800,Great Neck Estates,27
+2015,230,United States,8227,Cundiyo,31
+2015,230,United States,23687,Navassa,38
+2015,230,United States,35712,Wallagrass,32
+2015,230,United States,30906,Sea Island,43
+2015,230,United States,3707,Bowlus,42
+2015,230,United States,10199,El Centro,49
+2015,230,United States,4291,Brown City,41
+2015,230,United States,20043,Lost River,44
+2015,230,United States,34699,Twodot,34
+2015,230,United States,35008,Valhalla,35
+2015,230,United States,1380,Astor Park,35
+2015,230,United States,9701,Eagle Valley,24
+2015,230,United States,5247,Capa,36
+2015,230,United States,34530,Tschetter Colony,45
+2015,230,United States,10388,Elkatawa,39
+2015,230,United States,13136,Glen Park,39
+2015,230,United States,9386,Drakesboro,34
+2015,230,United States,25121,Obetz,41
+2015,230,United States,25376,Olivette,37
+2015,230,United States,31321,Shell,43
+2015,230,United States,18337,Lake Crystal,39
+2015,230,United States,32993,Straughn,38
+2015,230,United States,30926,Seagraves,31
+2015,230,United States,21191,Mashulaville,44
+2015,230,United States,22814,Montoya,45
+2015,230,United States,21692,Medicine Lodge,30
+2015,230,United States,35635,Walapai,39
+2015,230,United States,23707,Necedah,40
+2015,230,United States,2436,Bell Acres,37
+2015,230,United States,5682,Cave Junction,26
+2015,230,United States,21002,Marion Junction,29
+2015,230,United States,2791,Bernstein,46
+2015,230,United States,31009,Seiling,38
+2015,230,United States,25771,Otterville,30
+2015,230,United States,16239,Huntingburg,44
+2015,230,United States,9077,Dickworsham,29
+2015,230,United States,32887,Stonefort,23
+2015,230,United States,18772,Larose,42
+2015,230,United States,18446,Lake Ronkonkoma,33
+2015,230,United States,962,Antonito,37
+2015,230,United States,16382,Idaho City,33
+2015,230,United States,1775,Bakers Mill,31
+2015,230,United States,16090,Howells,23
+2015,230,United States,36946,White Church,35
+2015,230,United States,18460,Lake Stevens,37
+2015,230,United States,30803,Schoharie,34
+2015,230,United States,21022,Markville,31
+2015,230,United States,34633,Tuscaloosa,37
+2015,230,United States,22147,Miesville,30
+2015,230,United States,13242,Glenwillow,33
+2015,230,United States,20189,Lucasville,26
+2015,230,United States,30119,Saint Landry,32
+2015,230,United States,2230,Beals,34
+2015,230,United States,14965,Haycock,42
+2015,230,United States,23229,Mount Montgomery,38
+2015,230,United States,27577,Port Hueneme,46
+2015,230,United States,13333,Golden Meadow,45
+2015,230,United States,2379,Beekmantown,45
+2015,230,United States,32575,Stanardsville,29
+2015,230,United States,11427,Federalsburg,42
+2016,230,United States,24700,North Ridge,13
+2016,230,United States,10193,Ekron,10
+2016,230,United States,25639,Orpha,16
+2016,230,United States,4491,Buell,15
+2016,230,United States,3893,Bratenahl,12
+2016,230,United States,29320,Rockwall,21
+2016,230,United States,15646,Hodgdon,21
+2016,230,United States,30216,Saks,20
+2016,230,United States,6904,Cloquet,16
+2016,230,United States,9360,Downingtown,15
+2016,230,United States,3409,Boalsburg,12
+2016,230,United States,30906,Sea Island,16
+2016,230,United States,7594,Corfu,17
+2016,230,United States,15689,Holden Beach,6
+2016,230,United States,17730,Kinder,7
+2016,230,United States,17587,Keosauqua,20
+2016,230,United States,11753,Flowella,19
+2016,230,United States,7408,Conewango,16
+2016,230,United States,890,Annamoriah,9
+2016,230,United States,27236,Plata,8
+2016,230,United States,25078,Oakpark,17
+2016,230,United States,31006,Segundo,15
+2016,230,United States,1245,Arrowbear Lake,11
+2016,230,United States,26300,Pastura,13
+2016,230,United States,21431,McCamey,12
+2016,230,United States,2791,Bernstein,14
+2016,230,United States,12483,Furley,20
+2016,230,United States,8493,Darling,12
+2016,230,United States,28367,Raven,17
+2016,230,United States,11696,Florahome,15
+2016,230,United States,1417,Athol Springs,14
+2016,230,United States,2436,Bell Acres,17
+2016,230,United States,15835,Homer City,14
+2016,230,United States,24076,New Plymouth,14
+2016,230,United States,20535,Madrone,18
+2016,230,United States,14043,Grider,14
+2016,230,United States,9884,East Portal,13
+2016,230,United States,31401,Sherwin,10
+2016,230,United States,28361,Raton,21
+2016,230,United States,10199,El Centro,13
+2016,230,United States,7113,Colebrook,18
+2016,230,United States,28221,Rail Road Flat,20
+2016,230,United States,5407,Caro,16
+2016,230,United States,30548,Sans Souci,15
+2016,230,United States,21351,Mayhill,30
+2016,230,United States,14965,Haycock,8
+2016,230,United States,34192,Tolna,16
+2016,230,United States,31009,Seiling,12
+2016,230,United States,20412,Lytle,21
+2016,230,United States,23870,New Braintree,20
+2016,230,United States,19124,Lemeta,18
+2016,230,United States,18460,Lake Stevens,14
+2016,230,United States,20518,Madison Park,13
+2016,230,United States,6907,Cloud Lake,20
+2016,230,United States,7050,Coffeyville,14
+2016,230,United States,2971,Big Moose,12
+2016,230,United States,9549,Dunkerton,12
+2016,230,United States,11427,Federalsburg,15
+2016,230,United States,34584,Tunnelhill,13
+2016,230,United States,35082,Van Alstyne,18
+2016,230,United States,20475,Madaket,10
+2016,230,United States,5682,Cave Junction,12
+2016,230,United States,9237,Donner,13
+2016,230,United States,30342,San Acacia,12
+2016,230,United States,5304,Carbonville,19
+2016,230,United States,9386,Drakesboro,10
+2016,230,United States,25121,Obetz,25
+2016,230,United States,18772,Larose,11
+2016,230,United States,30926,Seagraves,18
+2016,230,United States,372,Alden Bridge,9
+2016,230,United States,38042,Yewed,12
+2016,230,United States,31321,Shell,9
+2016,230,United States,16416,Iliamna,10
+2016,230,United States,25971,Palatine Bridge,10
+2016,230,United States,22430,Mineral Hills,11
+2016,230,United States,20043,Lost River,17
+2016,230,United States,28032,Puerto de Luna,16
+2016,230,United States,22453,Minidoka,14
+2016,230,United States,7525,Coosa,14
+2016,230,United States,36499,West Elkton,16
+2016,230,United States,35712,Wallagrass,18
+2016,230,United States,35503,Vollmar,15
+2016,230,United States,27840,Premont,8
+2016,230,United States,20538,Magalia,10
+2016,230,United States,13800,Great Neck Estates,8
+2016,230,United States,17999,Koontzville,12
+2016,230,United States,30751,Sayner,22
+2016,230,United States,30734,Saxapahaw,12
+2016,230,United States,12563,Gallipolis Ferry,14
+2016,230,United States,18514,Lakemore,14
+2016,230,United States,2862,Bethel Acres,18
+2016,230,United States,16891,Jamison,19
+2016,230,United States,27648,Portales,12
+2016,230,United States,21405,McAdenville,14
+2016,230,United States,31249,Shawboro,10
+2016,230,United States,2782,Bernardston,14
+2016,230,United States,15783,Hollywood Park,5
+2016,230,United States,3048,Biorka,17
+2016,230,United States,13333,Golden Meadow,10
+2016,230,United States,7668,Corryton,10
+2016,230,United States,37884,Wounded Knee,8
+2016,230,United States,9331,Dover,15
+2016,230,United States,2739,Bergen Park,9
+2016,230,United States,15726,Hollandsburg,24
+2016,230,United States,17054,Jessie,14
+2016,230,United States,34512,Trumansburg,15
+2016,230,United States,21282,Mauldin,8
+2016,230,United States,15434,Highland Home,10
+2016,230,United States,23592,Naples Park,9
+2016,230,United States,14492,Hanaford,18
+2016,230,United States,4900,Cale,19
+2016,230,United States,25653,Ortley Beach,10
+2016,230,United States,13868,Greenback,9
+2016,230,United States,26778,Phelps City,8
+2016,230,United States,1820,Balko,15
+2016,230,United States,29165,Robertsburg,17
+2016,230,United States,15102,Hedrick,19
+2016,230,United States,16430,Imlaystown,19
+2016,230,United States,28129,Queen Valley,17
+2016,230,United States,8375,Dallardsville,10
+2016,230,United States,3463,Bokeelia,9
+2016,230,United States,15248,Herlong,13
+2016,230,United States,31564,Sigel,14
+2016,230,United States,5192,Cañon,18
+2016,230,United States,4860,Cadogan,18
+2016,230,United States,7485,Cookietown,9
+2016,230,United States,20575,Mahaffey,12
+2016,230,United States,3755,Boynton,11
+2016,230,United States,24007,New Laguna,12
+2016,230,United States,36513,West Frostproof,13
+2016,230,United States,54,Accomac,14
+2016,230,United States,1299,Asher,12
+2016,230,United States,31936,Soham,11
+2016,230,United States,20924,Marfa,10
+2016,230,United States,5633,Cataño,9
+2016,230,United States,17329,Kannapolis,13
+2016,230,United States,2175,Bayou Cane,17
+2016,230,United States,26483,Peeples Valley,13
+2016,230,United States,10831,Esopus,14
+2016,230,United States,29729,Royal City,15
+2016,230,United States,10233,El Refugio,14
+2016,230,United States,17306,Kalvesta,12
+2016,230,United States,9772,East Dailey,10
+2016,230,United States,34910,Upper Preston,14
+2016,230,United States,19908,Long Meadow,18
+2016,230,United States,31266,Shay,16
+2016,230,United States,26105,Panton,16
+2016,230,United States,29938,Sabinsville,15
+2016,230,United States,11747,Floriston,20
+2016,230,United States,16702,Isabela,22
+2016,230,United States,8839,Delray,16
+2016,230,United States,34060,Tilleda,20
+2016,230,United States,31870,Smoot,15
+2016,230,United States,8730,Deer River,17
+2016,230,United States,26752,Petronila,12
+2016,230,United States,25424,Omer,17
+2016,230,United States,12666,Gardners,17
+2016,230,United States,4840,Cache,14
+2016,230,United States,33227,Sun River,6
+2016,230,United States,9258,Dorchester,17
+2016,230,United States,34685,Twin Peaks,17
+2016,230,United States,31104,Severna Park,22
+2016,230,United States,38036,Yerington,8
+2016,230,United States,12142,Francis Mills,12
+2016,230,United States,16433,Impact,15
+2016,230,United States,1343,Ashtabula,20
+2016,230,United States,7343,Compass Lake,10
+2016,230,United States,2425,Belgreen,17
+2016,230,United States,34230,Tooele,17
+2016,230,United States,3762,Bozeman Hot Springs,10
+2016,230,United States,7672,Cortaro,18
+2016,230,United States,3736,Boyden Arbor,14
+2016,230,United States,21638,Meadowdale,12
+2016,230,United States,14974,Haydenville,16
+2016,230,United States,33832,Teutopolis,27
+2016,230,United States,20931,Marguerite,16
+2016,230,United States,16520,Indios,8
+2016,230,United States,7071,Cokato,8
+2016,230,United States,16185,Humansville,12
+2016,230,United States,7529,Copake,12
+2016,230,United States,21821,Mendoza,9
+2016,230,United States,928,Antares,11
+2016,230,United States,16557,Inguadona,20
+2016,230,United States,14041,Greycliff,24
+2016,230,United States,5259,Cape Neddick,17
+2016,230,United States,19368,Liberty Grove,16
+2016,230,United States,35684,Walker Valley,19
+2016,230,United States,22903,Mooringsport,12
+2016,230,United States,7403,Conesus Lake,15
+2016,230,United States,17353,Karthaus,16
+2016,230,United States,37473,Windsor Locks,21
+2016,230,United States,31685,Sinclair,29
+2016,230,United States,35830,Wapinitia,15
+2016,230,United States,17931,Knifley,13
+2016,230,United States,23550,Nahant,11
+2016,230,United States,6238,Cherryplain,9
+2016,230,United States,10483,Ellisville,8
+2016,230,United States,16411,Ikatan,12
+2016,230,United States,32083,South Euclid,19
+2016,230,United States,14522,Hanna,21
+2016,230,United States,10194,Ekwok,11
+2016,230,United States,6115,Chaseley,15
+2016,230,United States,32126,South Laguna,14
+2016,230,United States,5966,Chalco,11
+2016,230,United States,15,Abbottsburg,16
+2016,230,United States,3659,Bourbonnais,9
+2016,230,United States,35223,Verdery,12
+2016,230,United States,2614,Ben Arnold,10
+2016,230,United States,16992,Jemison,12
+2016,230,United States,14287,Hahira,16
+2016,230,United States,14977,Hayes Center,18
+2016,230,United States,27543,Port Alto,15
+2016,230,United States,13669,Grannis,24
+2016,230,United States,24340,Nicasio,13
+2016,230,United States,35160,Vassalboro,12
+2016,230,United States,18346,Lake Erie Beach,19
+2016,230,United States,58,Aceitunas,16
+2016,230,United States,33520,Taft Heights,18
+2016,230,United States,34519,Truscott,11
+2016,230,United States,15143,Helotes,12
+2016,230,United States,28210,Rafael Capó,21
+2016,230,United States,1246,Arrowhead Highlands,16
+2016,230,United States,17742,King Cove,17
+2016,230,United States,2053,Basin,12
+2016,230,United States,19434,Lime Lake,14
+2016,230,United States,7695,Cos Cob,18
+2016,230,United States,25505,Optimo,12
+2016,230,United States,7861,Coyville,15
+2016,230,United States,8296,Cuyamungue,19
+2016,230,United States,36434,Wesson,18
+2016,230,United States,25608,Orland Hills,19
+2016,230,United States,1366,Aspen Park,12
+2016,230,United States,9524,Dundarrach,14
+2016,230,United States,12040,Fortville,15
+2016,230,United States,21432,McCammon,12
+2016,230,United States,1326,Ashland,17
+2016,230,United States,28502,Red Mesa,12
+2016,230,United States,24589,North Eastham,12
+2016,230,United States,23284,Mount Summit,15
+2016,230,United States,28817,Richland,11
+2016,230,United States,15057,Heartwell,18
+2016,230,United States,35810,Wanaque,9
+2016,230,United States,32561,Stallion Springs,15
+2016,230,United States,8751,Deeson,11
+2016,230,United States,20868,Mappsburg,7
+2016,230,United States,35833,Wappingers Falls,16
+2016,230,United States,3501,Bombay Beach,18
+2016,230,United States,9701,Eagle Valley,16
+2016,230,United States,24898,Nuangola,13
+2016,230,United States,4291,Brown City,19
+2016,230,United States,13388,Goodings Grove,16
+2016,230,United States,8227,Cundiyo,16
+2016,230,United States,696,Amanda Park,15
+2016,230,United States,3707,Bowlus,13
+2016,230,United States,35861,Ware Shoals,17
+2016,230,United States,6206,Cherokee,13
+2016,230,United States,1380,Astor Park,8
+2016,230,United States,34181,Tolchester Beach,11
+2016,230,United States,33591,Tamora,21
+2016,230,United States,33660,Tavares,14
+2016,230,United States,14931,Hawarden,17
+2016,230,United States,36322,Weld,15
+2016,230,United States,36179,Waycross,21
+2016,230,United States,21191,Mashulaville,17
+2016,230,United States,14072,Griswoldville,12
+2016,230,United States,36365,Wells,11
+2016,230,United States,23796,Nesmith,17
+2016,230,United States,5645,Catesby,12
+2016,230,United States,36531,West Hempstead,11
+2016,230,United States,25170,Oconto Falls,20
+2016,230,United States,31075,Sentinel Butte,21
+2016,230,United States,29887,Ruthsburg,20
+2016,230,United States,19405,Lilbourn,18
+2016,230,United States,9040,Diablock,12
+2016,230,United States,30288,Sallyards,16
+2016,230,United States,49,Absecon,16
+2016,230,United States,4795,Byers,13
+2016,230,United States,32558,Staley,17
+2016,230,United States,10059,Edgecomb,19
+2016,230,United States,20610,Makoti,12
+2016,230,United States,23026,Morrison Bluff,15
+2016,230,United States,10388,Elkatawa,15
+2016,230,United States,36946,White Church,15
+2016,230,United States,32575,Stanardsville,13
+2016,230,United States,30803,Schoharie,11
+2016,230,United States,22147,Miesville,16
+2016,230,United States,34633,Tuscaloosa,12
+2016,230,United States,13242,Glenwillow,13
+2016,230,United States,6687,Claycomo,12
+2016,230,United States,8562,Dawn,15
+2016,230,United States,29123,Roachtown,10
+2016,230,United States,30119,Saint Landry,9
+2016,230,United States,21692,Medicine Lodge,15
+2016,230,United States,16239,Huntingburg,10
+2016,230,United States,20902,Marcella,14
+2016,230,United States,20189,Lucasville,22
+2016,230,United States,25771,Otterville,15
+2016,230,United States,16382,Idaho City,11
+2016,230,United States,20710,Manchester Center,10
+2016,230,United States,7938,Creelsboro,12
+2016,230,United States,2379,Beekmantown,13
+2016,230,United States,35635,Walapai,20
+2016,230,United States,962,Antonito,16
+2016,230,United States,25479,Oologah,11
+2016,230,United States,23707,Necedah,11
+2016,230,United States,23441,Munich,9
+2016,230,United States,33806,Terre du Lac,11
+2016,230,United States,21002,Marion Junction,24
+2016,230,United States,18340,Lake Davis,23
+2016,230,United States,3876,Branson West,10
+2016,230,United States,21022,Markville,10
+2016,230,United States,35844,Ward Ridge,9
+2016,230,United States,23229,Mount Montgomery,10
+2016,230,United States,37885,Wrangell,9
+2016,230,United States,3673,Bow Mar,20
+2016,230,United States,14596,Hardeeville,9
+2016,230,United States,16090,Howells,16
+2016,230,United States,22090,Midland,4
+2016,230,United States,27577,Port Hueneme,17
+2016,230,United States,24583,North Crows Nest,12
+2016,230,United States,232,Airport Drive,15
+2016,230,United States,1904,Baraboo,11
+2016,230,United States,23687,Navassa,12
+2016,230,United States,30517,Sandy Level,13
+2016,230,United States,18337,Lake Crystal,12
+2016,230,United States,32993,Straughn,11
+2016,230,United States,9077,Dickworsham,15
+2016,230,United States,5247,Capa,12
+2016,230,United States,7749,Cotuit,20
+2016,230,United States,35008,Valhalla,14
+2016,230,United States,32887,Stonefort,11
+2016,230,United States,18446,Lake Ronkonkoma,16
+2016,230,United States,25376,Olivette,12
+2016,230,United States,14556,Hanoverton,9
+2016,230,United States,34699,Twodot,18
+2016,230,United States,1775,Bakers Mill,18
+2016,230,United States,29166,Robertsdale,15
+2016,230,United States,37988,Yampa,9
+2016,230,United States,2230,Beals,14
+2016,230,United States,34530,Tschetter Colony,21
+2016,230,United States,13136,Glen Park,14
+2016,230,United States,22814,Montoya,14
+2016,230,United States,30663,Sarversville,13
+2016,230,United States,37886,Wray,13
+2016,230,United States,8082,Crossroads,18
+2016,230,United States,11520,Fieldbrook,21
+2016,230,United States,36091,Watonga,15
+2016,230,United States,33701,Tea,16
+2016,230,United States,14033,Gresston,15
+2016,230,United States,10581,Elverson,16
+2016,230,United States,14268,Haddon Heights,14
+2016,230,United States,2815,Berville,15
+2016,230,United States,9064,Dickerson,14
+2016,230,United States,34285,Towaco,7
+2016,230,United States,26376,Paw Paw Lake,8
+2016,230,United States,23067,Morton Grove,10
+2016,230,United States,8337,Dahlia,11
+2016,230,United States,6124,Chateaugay,4
+2016,230,United States,28918,Ridgeway,24
+2016,230,United States,30790,Schererville,13
+2016,230,United States,20047,Lostine,10
+2016,230,United States,3425,Bock,11
+2016,230,United States,843,Andrix,18
+2016,230,United States,35344,Victory Gardens,17
+2016,230,United States,36841,Westwater,18
+2016,230,United States,18865,Laurence Harbor,16
+2016,230,United States,21427,McCall,15
+2016,230,United States,27166,Placer,15
+2016,230,United States,9433,Dry Run,12
+2016,230,United States,16469,Indian Creek,21
+2016,230,United States,19386,Licking,5
+2016,230,United States,17591,Kerby,26
+2016,230,United States,11686,Flomaton,17
+2016,230,United States,23542,Naches,7
+2016,230,United States,25818,Ovilla,16
+2016,230,United States,17992,Komalty,14
+2016,230,United States,25354,Oley,15
+2016,230,United States,24590,North Eaton,14
+2016,230,United States,23734,Nehawka,11
+2016,230,United States,3127,Black Lick,12
+2016,230,United States,18069,La Bolt,22
+2016,230,United States,28434,Reader,13
+2016,230,United States,16741,Islip Terrace,11
+2016,230,United States,33867,The Colony,7
+2016,230,United States,21650,Meaux,10
+2016,230,United States,8892,Dennis Acres,21
+2016,230,United States,35951,Wasco,18
+2016,230,United States,12748,Gasport,20
+2016,230,United States,35078,Vamo,13
+2016,230,United States,22984,Morita,15
+2016,230,United States,35470,Virgil,21
+2016,230,United States,26379,Pawlet,16
+2016,230,United States,19881,Long Beach,9
+2016,230,United States,3714,Bowmansville,13
+2016,230,United States,25795,Oval,8
+2016,230,United States,6313,Chetek,16
+2016,230,United States,4278,Broomtown,23
+2016,230,United States,32267,Southside,20
+2016,230,United States,15118,Heilwood,15
+2016,230,United States,33475,Sylvanite,14
+2016,230,United States,10043,Eden Valley,14
+2016,230,United States,25646,Orrtanna,20
+2016,230,United States,3545,Bonner Springs,19
+2016,230,United States,11597,Fishtail,22
+2016,230,United States,8294,Cuyahoga Heights,14
+2016,230,United States,17053,Jesmond Dene,9
+2016,230,United States,10561,Elrosa,15
+2016,230,United States,34371,Tremont,15
+2016,230,United States,10910,Eulaton,20
+2016,230,United States,27232,Plaquemine,16
+2016,230,United States,2838,Bethania,19
+2016,230,United States,5506,Caruthers,16
+2016,230,United States,37969,Yaak,15
+2016,230,United States,1132,Arietta,27
+2016,230,United States,18882,Lavon,11
+2016,230,United States,17093,Johnetta,11
+2016,230,United States,9791,East Fultonham,26
+2016,230,United States,3840,Branchburg Park,18
+2016,230,United States,3176,Bladenboro,10
+2016,230,United States,24401,Nitro,10
+2016,230,United States,31348,Shenorock,14
+2016,230,United States,30830,Scioto Furnace,19
+2016,230,United States,2111,Batson,13
+2016,230,United States,33747,Tempe,6
+2016,230,United States,34411,Triadelphia,12
+2016,230,United States,8772,Del Valle,16
+2016,230,United States,20668,Mamou,25
+2016,230,United States,19586,Lisco,8
+2016,230,United States,24014,New Lexington,16
+2016,230,United States,12653,Gardere,15
+2016,230,United States,34193,Tolono,11
+2016,230,United States,24349,Nichols Hills,11
+2016,230,United States,29530,Rose Tree,22
+2016,230,United States,20376,Lynne,16
+2016,230,United States,7890,Cramerton,20
+2016,230,United States,8322,Dacono,16
+2016,230,United States,20270,Lunds,15
+2016,230,United States,34256,Topstone,22
+2016,230,United States,31010,Sekiu,11
+2016,230,United States,22085,Middleway,7
+2016,230,United States,4352,Bruceton Mills,14
+2016,230,United States,13692,Grantsburg,11
+2016,230,United States,34422,Trilby,14
+2016,230,United States,11491,Ferney,19
+2016,230,United States,10134,Edmund,16
+2016,230,United States,33446,Switz City,16
+2016,230,United States,9427,Drumright,15
+2016,230,United States,12341,Frenchburg,12
+2016,230,United States,18332,Lake Clarke Shores,23
+2016,230,United States,33237,Sunburg,18
+2016,230,United States,13068,Glancy,13
+2016,230,United States,23396,Muir,20
+2016,230,United States,2789,Bernie,12
+2016,230,United States,30698,Sauquoit,9
+2016,230,United States,32358,Spillertown,12
+2016,230,United States,25122,Obion,6
+2016,230,United States,22915,Moquino,14
+2016,230,United States,24352,Nicholson,14
+2016,230,United States,3081,Biscay,16
+2016,230,United States,14628,Harkers Island,14
+2016,230,United States,23805,Netcong,12
+2016,230,United States,23264,Mount Pocono,11
+2016,230,United States,21604,McQueen,10
+2016,230,United States,15461,Hightsville,17
+2016,230,United States,19374,Liberty Plain,15
+2016,230,United States,7781,Coupland,7
+2016,230,United States,28780,Rich Creek,19
+2016,230,United States,7409,Coney Island,24
+2016,230,United States,13360,Golf View,12
+2016,230,United States,15610,Hiteman,19
+2016,230,United States,16257,Huntington Woods,28
+2016,230,United States,3894,Bratt,20
+2016,230,United States,12693,Garlin,10
+2016,230,United States,14173,Guin,14
+2016,230,United States,24658,North Manitou,11
+2016,230,United States,26579,Penns Creek,8
+2016,230,United States,3018,Biggs,19
+2016,230,United States,24764,North York,13
+2016,230,United States,36297,Weigelstown,13
+2016,230,United States,6221,Cherry Grove Beach,27
+2016,230,United States,2291,Beaver Bay,12
+2016,230,United States,29158,Roberta Mill,23
+2016,230,United States,29490,Rosa Sánchez,17
+2016,230,United States,7432,Connoquenessing,18
+2016,230,United States,20642,Malott,15
+2016,230,United States,12152,Frankewing,18
+2016,230,United States,37316,Willow Valley,7
+2016,230,United States,35355,Vidrine,26
+2016,230,United States,26788,Philip,9
+2016,230,United States,7074,Coker,13
+2016,230,United States,28222,Railroad,10
+2016,230,United States,6327,Cheyenne Wells,20
+2016,230,United States,24180,Newberg,16
+2016,230,United States,5540,Caselton,17
+2016,230,United States,32885,Stoneboro,13
+2016,230,United States,33799,Termo,9
+2016,230,United States,7847,Cowlington,12
+2016,230,United States,20413,Lytle Creek,20
+2016,230,United States,1604,Avenal,12
+2016,230,United States,34568,Tumacacori,13
+2016,230,United States,11010,Ewen,18
+2016,230,United States,10263,Elbing,18
+2016,230,United States,22998,Moroni,19
+2016,230,United States,14591,Harbour Pointe,13
+2016,230,United States,1040,Arbor Vitae,14
+2016,230,United States,28385,Ravia,16
+2016,230,United States,18375,Lake Hughes,10
+2016,230,United States,7160,College Place,12
+2016,230,United States,18110,La Grange Park,11
+2016,230,United States,25933,Page City,20
+2016,230,United States,357,Alcester,5
+2016,230,United States,37194,Wilkes-Barre,11
+2016,230,United States,30304,Salt Wells,10
+2016,230,United States,22146,Mier,11
+2016,230,United States,12992,Gilford,20
+2016,230,United States,26076,Panaca,17
+2016,230,United States,20131,Lowellville,11
+2016,230,United States,4977,Calvert City,9
+2016,230,United States,20672,Manahawkin,15
+2016,230,United States,18004,Kopperl,11
+2016,230,United States,17632,Key Biscayne,13
+2016,230,United States,9099,Dillon,10
+2016,230,United States,34403,Tresckow,11
+2016,230,United States,21001,Marion Hill,14
+2016,230,United States,14194,Gum Branch,8
+2016,230,United States,30865,Scott,20
+2016,230,United States,29371,Roe Park,12
+2016,230,United States,19839,Lompoc,15
+2016,230,United States,20901,Marcell,25
+2016,230,United States,29391,Rogersville,23
+2016,230,United States,16401,Idria,9
+2016,230,United States,7576,Corcovado,14
+2016,230,United States,24579,North Cowden,21
+2016,230,United States,22020,Mickleton,12
+2016,230,United States,31758,Slanesville,21
+2016,230,United States,1811,Baldwin City,12
+2016,230,United States,30779,Schaal,13
+2016,230,United States,22604,Molalla,10
+2016,230,United States,34466,Trout Run,11
+2016,230,United States,5687,Cavendish,11
+2016,230,United States,12680,Gargatha,19
+2016,230,United States,17340,Kapa'a,13
+2016,230,United States,9932,Eastchester,22
+2016,230,United States,13799,Great Neck,17
+2016,230,United States,13304,Goffstown,14
+2016,230,United States,34028,Tierra Verde,27
+2016,230,United States,21439,McClave,16
+2016,230,United States,24164,New Zion,14
+2016,230,United States,35193,Venersborg,9
+2016,230,United States,10055,Edgartown,18
+2016,230,United States,26769,Pharr,12
+2016,230,United States,19232,Lesslie,10
+2016,230,United States,4270,Brookville,15
+2016,230,United States,20961,Marin City,13
+2016,230,United States,37938,Wyndham,22
+2016,230,United States,25581,Orick,19
+2016,230,United States,5664,Caton,12
+2016,230,United States,18648,Lancaster,14
+2016,230,United States,27559,Port Chilkoot,14
+2016,230,United States,25332,Old River-Winfree,11
+2016,230,United States,34984,Vair,11
+2016,230,United States,34280,Toughkenamon,19
+2016,230,United States,25083,Oakshade,17
+2016,230,United States,34400,Trentwood,22
+2016,230,United States,13507,Grabill,17
+2016,230,United States,19507,Linden,22
+2016,230,United States,34990,Valdese,9
+2016,230,United States,19338,Lexington Heights,16
+2016,230,United States,10367,Elk Garden,12
+2016,230,United States,30387,San Jacinto,16
+2016,230,United States,18087,La Cueva,19
+2016,230,United States,28907,Ridgemark,12
+2016,230,United States,19979,Lorentz,10
+2016,230,United States,18983,Leathersville,22
+2016,230,United States,23560,Nanafalia,22
+2016,230,United States,3165,Blackville,12
+2016,230,United States,3663,Bourneville,24
+2016,230,United States,24668,North Muskegon,11
+2016,230,United States,8306,Cylon,17
+2016,230,United States,31323,Shell Knob,19
+2016,230,United States,37403,Wimbledon,18
+2016,230,United States,689,Amado,10
+2016,230,United States,17151,Jones Creek,19
+2016,230,United States,7914,Crary,16
+2016,230,United States,37898,Wright City,9
+2016,230,United States,6809,Clewiston,3
+2016,230,United States,34031,Tiff City,16
+2016,230,United States,12751,Gassaway,19
+2016,230,United States,600,Alstead,11
+2016,230,United States,18410,Lake Mohegan,13
+2016,230,United States,38184,Zurich,15
+2016,230,United States,11626,Flanagan,17
+2016,230,United States,24553,North Brookfield,15
+2016,230,United States,8317,Cypress Quarters,14
+2016,230,United States,31629,Silver Plume,15
+2016,230,United States,24988,Oak Point,12
+2016,230,United States,33644,Tarzan,10
+2016,230,United States,30839,Scofield,25
+2016,230,United States,35061,Valley View Park,16
+2016,230,United States,14380,Hambleton,16
+2016,230,United States,32688,Statenville,14
+2016,230,United States,25555,Orchard Mesa,15
+2016,230,United States,34875,Universal City,10
+2016,230,United States,16893,Jane,14
+2016,230,United States,29651,Rothsville,20
+2016,230,United States,30132,Saint Louis Park,11
+2016,230,United States,7069,Coin,14
+2016,230,United States,26010,Palmas del Mar,33
+2016,230,United States,17935,Knights Landing,12
+2016,230,United States,6574,Claremont,13
+2016,230,United States,27344,Plum Branch,16
+2016,230,United States,17142,Jolley,16
+2016,230,United States,4430,Buchanan Lake Village,19
+2016,230,United States,20846,Maple Shade,11
+2016,230,United States,31752,Skyway,16
+2016,230,United States,24805,Northrop,18
+2016,230,United States,3700,Bowleys Quarters,13
+2016,230,United States,13375,Good Hart,27
+2016,230,United States,21161,Mary Esther,19
+2016,230,United States,11131,Fairfield Glade,14
+2016,230,United States,32124,South La Paloma,15
+2016,230,United States,13146,Glen Ullin,10
+2016,230,United States,25595,Oriole Beach,5
+2016,230,United States,9857,East Mountain,14
+2016,230,United States,14377,Haltom City,16
+2016,230,United States,9445,Du Quoin,13
+2016,230,United States,35605,Waite Hill,20
+2016,230,United States,26906,Pikeview,13
+2016,230,United States,27424,Point Roberts,13
+2016,230,United States,24530,North Beach Haven,27
+2016,230,United States,36973,White Horse Beach,12
+2016,230,United States,17039,Jeromesville,19
+2016,230,United States,9379,Dracut,15
+2016,230,United States,32359,Spillville,23
+2016,230,United States,1244,Arrow Rock,23
+2016,230,United States,18058,Kwethluk,13
+2016,230,United States,34208,Tomnolen,9
+2016,230,United States,25552,Orchard Hill,11
+2016,230,United States,1121,Argusville,18
+2016,230,United States,23843,New Baden,13
+2016,230,United States,2203,Bazemore,12
+2016,230,United States,11008,Ewart,18
+2016,230,United States,242,Akhiok,38
+2016,230,United States,35831,Wapiti,12
+2016,230,United States,14019,Greig,7
+2016,230,United States,1207,Armstrong Creek,15
+2016,230,United States,13109,Glen Avon,8
+2016,230,United States,33793,Tenstrike,15
+2016,230,United States,18141,La Paz,15
+2016,230,United States,13896,Greenfield,23
+2016,230,United States,8987,Devault,15
+2016,230,United States,38038,Yermo,14
+2016,230,United States,6402,Chipita Park,10
+2016,230,United States,3059,Birds,15
+2016,230,United States,21367,Maypearl,20
